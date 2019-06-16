@@ -1,12 +1,18 @@
+<!doctype html>
 <html>
     <head>
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         <style type="text/css">
+	    @font-face { font-family: Futura; src: url('FuturaStd-Bold.otf'); }
+
             body {
                 font-family: Arial, Helvetica, sans-serif;
                 letter-spacing: -0.5px;
                 padding: 10px;
                 color: #333;
             }
+
+	    p, li { font-size: 16px; }
 
             a {
                 color: #4891dc;
@@ -16,14 +22,46 @@
             a:hover {
                 text-decoration: underline;
             }
+
+	    h1, h2, h3, h4 {
+		font-weight: bold;
+		}
         </style>
     </head>
 <body>
-    <div style="width: 100%;">
-        <h1 style="font-size: 30px; font-family: Arial, Helvetica, sans-serif; letter-spacing: -1.5px; margin-bottom: 5px; color: black;">Michael West</h1>
-        <div style="width: 100%; height: 5px; background-color: rgb(211, 127, 94); margin-bottom: 3px;"></div>
-        <div style="width: 100%; height: 5px; background-color: #4891dc; margin-bottom: 3px;"></div>
-        <div style="width: 100%; height: 5px; background-color: #333; margin-bottom: 3px;"></div>
+    <div class="container">
+    <div id="header" style="width: 100%;">
+        <h1 style="font-size: 30px; font-family: Futura, Arial, Helvetica, sans-serif; margin-bottom: 5px;">MICHAEL WEST</h1>
+        <div style="width: 100%; height: 3px; background-color: #4891dc; margin-bottom: 3px;"></div>
     </div>
+    <div>
+	<br/>
+	<p>I work at <a href="https://palantir.com">Palantir</a>, in Australia, where I help critical institutions use data effectively.</p>
+	<p>I previously worked for Australia's <a href="https://chiefscientist.gov.au">Chief Scientist</a>, who advises the Prime Minister on science and related policy issues, and I was the founding CTO of <a href="https://180dc.org">180 Degrees</a>, the world's largest student consulting organisation.</p>
+	<br/>
+	<p>Here are some questions I'm interested in:</p>
+	<h4>How can we retain and apply more of what we encounter?</h4>
+	<p>I find accessible summaries of mental models and traps (e.g. <a href="https://fs.blog/mental-models/">Farnam Street</a>) and philosophy (e.g. <a href="https://www.theschooloflife.com/shop/tsol-press-great-thinkers/">School of Life</a>) to be helpful, but hard to remember to apply. How can we do better at bringing these insights into our day-to-day lives?</p>
+	<ul>
+		<li><a href="https://medium.com/@michaeljwest/takeaways-8bca9add4fc6">Takeaways.</a> A technique for capturing and internalising lessons.</li>
+	</ul>
+	<h4>How can we improve our information and attention diets?</h4>
+	<ul>
+		<li>Techniques described in <a href="http://www.calnewport.com/books/deep-work/">Deep Work</a>.</li>
+	</ul>
+	<h4>How can games and simulations help us understand the real world?</h4>
+	<ul>
+		<li><a href="https://medium.com/@michaeljwest/the-kerbal-factorio-business-school-how-sim-games-teach-mental-models-9f14dc622036">The Kerbal-Factorio Business School</a>.
+			How sim games can teach us mental models.
+		</li>
+		<li><a href="https://medium.com/@michaeljwest/ghost-in-the-machine-5568ce41f629">Ghost in the machine</a>. 
+			The gaming community’s techniques for learning how to play might usefully be encoded into the games themselves, and into other software.
+		</li>
+		<li><a href="https://medium.com/@michaeljwest/enders-farmville-6a07b0ff6c2f">Ender's Farmville</a>.
+			How can we think about creating games that don’t just simulate the world, but actually impact it as you play?
+		</li>
+	</ul>	
+    </div>
+	</div>
 </body>
 </html>
