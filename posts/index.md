@@ -1,0 +1,2 @@
+# Index of posts
+Hello
