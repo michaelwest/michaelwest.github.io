@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Home Buying</title>
+    <link rel="icon" type="image/png" href="houseemoji.png" />
+    <script src="https://unpkg.com/react@latest/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@latest/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+    <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <style type="text/css">
+      h1, h2, h3 {
+        font-weight: bold;
+        text-align: center;
+      }
+
+      h3 {
+       font-size: 18px;
+       text-align: left;
+      }
+ 
+
+      .loanScenarioMain, .paymentScenarioMain {
+        padding: 12px;    
+      }
+
+      .loanScenarioForm, .paymentScenarioForm {
+        margin: auto;
+        text-align: center;
+      }
+
+      .loanParameterInput{
+          max-width: 60px;
+      }
+
+      .paymentParameterInput{
+          max-width: 100px;
+      }
+
+      .loanScenarioList, .paymentScenarioList {
+        margin: auto;
+        margin-top: 12px;
+        margin-bottom: 30px;
+        font-size: 18px;
+        width: 95%;
+      }
+
+      table.paymentScenarioList>thead>tr>th {
+       text-align: center;
+     }
+
+      td {
+        text-align: center;
+     }
+
+      .title {
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+	      <h1><i class="em em-house_with_garden"></i></h1>
+        <p style="text-align: center;">Here is a page with some thoughts, links and data on buying a home in Sydney.<br/>Some of it might be obvious, but hopefully some of it is useful.<br/>If you have any comments or things you've found out that are worth adding, let us know.</p>
+        <p style="text-align: center;"><img src="countess.gif" /></p>
+        <hr/>
+    </div>
+
+    <div class="container">
+        <h2><i class="em em-moneybag"></i> Saving for a deposit</h2>
+        <p>We've found these things helpful to consider in saving for our deposit:</p>
+        <p><b>Keeping a budget</b>. We track our spending into categories using <a href="https://www.youneedabudget.com/">YNAB</a>, which is easy to use and has a good mobile app, but you can start with any free spreadsheet and an export of your last 6-12 months of transactions. Tracking this helps reveal the real cost of things and spread out large costs like car rego and maintenance over the course of a year so they're not surprises that wipe out our savings. Having the budget also helps us make trade-offs in ways that don't affect our long-term savings; e.g. if we over-spend on the Eating Out & Drinks category, that extra money comes out of our Holiday Fund category, so if we know a holiday is coming up, we need to be more careful about how often we eat out. Another useful thing is to make sure you're aware of 'autopilot' expenses like health insurance and streaming services and are comfortable with the costs of those.</p>
+        <p><b>Choosing how to prioritise a deposit against other things</b>. Before saving for a deposit, it's worth getting more urgent financial needs under control, like paying off high-interest debt (e.g. credit cards) and building a small <a href="https://www.moneysmart.gov.au/managing-your-money/saving/building-an-emergency-fund">emergency fund</a> that could sustain you through an unexpected period off work or a big repair/replacement bill. Working through a flowchart like <a href="http://imgur.com/NmP4zCu">this one</a> can help.</p>
+        <p><b>Where to put savings</b>. How much you save from your income will have a much bigger impact on growing the deposit than on how you store the funds in the meantime, so definitely focus there first. But we've used a combination of:</p>
+        <ul>
+          <li>Savings account. We have an automatic monthly transfer right after payday - pretty basic. We make a firm distinction between 'untouchable' long-term savings and the kinds of savings that we can tap into for holidays, car maintenance, etc. Make sure you're doing whatever's needed to qualify for bonus interest if applicable. Watch out for introductory rates that drop to tiny levels after a few months. Also worth checking every 3-6 months to see if the interest rate is still competitive.</li>
+          <li>Term deposit. This has a slightly better interest rate than a savings account, and has a good psychological function around locking the money away, so we moved some money into there for a while.</li>
+          <li>Shares, in the form of index funds. Holding deposit money in shares is somewhat risky because the market might drop before you're ready to buy - shares are generally safer over 5-10 year horizons. However, the returns can be better than a savings account. We use Vanguard index funds which track the total market rather than buying individual shares, as it's very hard to make a sustainable profit picking individual shares - even most professional traders don't achieve this. Over the last 2.5 years, VTS (US market) is up 27% and VAS (AU market) is up 10% - so you can see the returns are better than the 2-3% you'd get in a savings account, but the risk is higher.</li>
+        </ul>
+        <p>The government has also proposed a Super Saver account where some voluntary super contributions will be able to be withdrawn for a home deposit, which is good because voluntary super contributions are taxed less than regular pay; but this proposal hasn't passed into law, so it's not really relevant yet.</p>
+      </ul>
+      <hr/>
+    </div>
+
+    <div class="container">
+      <h2><i class="em em-chart_with_downwards_trend"></i> Home loans</h2>
+      <p>High property prices mean home loans are more crucial, and it's important to be able to continue comfortably paying off the loan under different circumstances. That could include external circumstances like an interest rate rise, but also - and probably more importantly - changing personal circumstances, like parenting or switching jobs. This tool helps to identify whether you could meet the monthly repayment on a given loan under a given set of personal financial circumstances - and if so, how much buffer you'd have. You can enter multiple loans and multiple circumstances to see how they impact each other.</p>
+      <div class="container text-center">
+        <a class="btn btn-primary" href="buying.html">Open home loan model tool</a>
+      </div>
+      <hr/>
+    </div>
+
+    <div class="container">
+      <h2><i class="em em-money_with_wings"></i> Property costs</h2>
+      <p>Another obvious question is how much money is actually needed to buy. While the average house price might be over $1M, as a first home buyer you're probably not looking to buy the 'average' house, but something at the cheaper end - both in terms of probably being an apartment, and being less luxurious. However, there's no getting around the fact that Sydney is still very expensive even in that lower category.</p>
+      <p>I've saved off auction prices from Domain for a couple of months to create a simple spreadsheet of suburbs, house types, and prices, which might be useful as a reference point. Of course, you can always just search Domain or Realestate.com.au directly for recent sales.</p>
+      <div class="container text-center">
+        <a class="btn btn-default" href="SydneyAuctions.xlsx">Download auction data</a>
+      </div>
+      <br/>
+      <p>Don't forget other costs of buying, mainly stamp duty. Some good news is that for houses under $800,000, the stamp duty is <a href="https://www.nsw.gov.au/improving-nsw/projects-and-initiatives/first-home-buyers/#how-much-could-first-home-buyers-save">reduced or removed altogether</a> for first home buyers.</p>
+      <hr/>
+    </div>
+</div>
+
+
+
+<!-- Home loan tool code ================================================================================= -->
+    <script type="text/babel">
+
+    class PricingModel extends React.Component {
+      constructor(){
+        super();
+        this.state = {
+          //loanScenarios: [{rate: 5.5, term: 20, principal: 500, monthly: 3340, interest: 325}],
+          //paymentScenarios: [{scenarioname: "Example", income1: 6000, income2: 4000, expenses: 5000, remainder: 5000}],
+          loanScenarios: [],
+          paymentScenarios: []
+        };
+        this.addLoanScenario = this.addLoanScenario.bind(this);
+        this.addPaymentScenario = this.addPaymentScenario.bind(this);
+      }
+
+      addLoanScenario(e) {
+        e.preventDefault();
+        const loanScenarios = this.state.loanScenarios.slice();
+
+        var rate = parseFloat(this.rate.value);
+        var term = parseInt(this.term.value);
+        var principal = parseInt(this.principal.value);
+        var monthly = this.calcMonthlyPayment(rate, term, principal);
+        var interest = Math.round(((12 * term * monthly) - principal*1000)/1000);
+
+        loanScenarios.push({
+          rate: rate,
+          term: term,
+          principal: principal,
+          monthly: monthly,
+          interest: interest,
+          key: Date.now()
+        });
+        console.log(this);
+        this.setState({loanScenarios: loanScenarios});
+        this.rate.value = "";
+        this.term.value = "";
+        this.principal.value = "";
+      }
+
+      addPaymentScenario(e) {
+        e.preventDefault();
+        const paymentScenarios = this.state.paymentScenarios.slice();
+
+        var scenarioname = this.scenarioname.value;
+        var income1 = parseInt(this.income1.value);
+        var income2 = parseInt(this.income2.value);
+        var expenses = parseInt(this.expenses.value);
+        var remainder = (income1 + income2) - expenses;
+
+        paymentScenarios.push({
+          scenarioname: scenarioname,
+          income1: income1,
+          income2: income2,
+          expenses: expenses,
+          remainder: remainder,
+          key: Date.now()
+        });
+        console.log(this);
+        this.setState({paymentScenarios: paymentScenarios});
+        this.scenarioname.value = "";
+        this.income1.value = "";
+        this.income2.value = "";
+        this.expenses.value = "";
+      }
+
+      calcMonthlyPayment(rate, term, principal){
+          //find monthly payment c = (rP)/(1 - (1+r)^-N)
+          //rate = annual rate, so divide by 12 to get r, then divide by 100 to express as decimal
+          //term = number of years, so multiply by 12 to get N
+          //principal = principal, P
+
+          var r = rate / 12 / 100;
+          var N = term * 12;
+          var P = principal * 1000;
+          var c = Math.round( (r * P) / (1 - Math.pow((1 + r), -N)) );
+          return c;
+      }
+
+      render() {
+        return (
+          <div className="container-fluid modelMain">
+            <div className="row">
+              <h3><i className="em em-one"></i> Home loan scenarios</h3>
+              <div className="col-lg-3"></div>
+              <div className="loanScenarioMain col-lg-6">
+                <LoanScenarioTable loanScenarios={this.state.loanScenarios} />
+                  <form onSubmit={this.addLoanScenario} className="form-inline loanScenarioForm">
+                    <div className="form-group">
+                      <label>Add new:&nbsp;&nbsp;</label>
+                      <div className="input-group">
+                        <div className="input-group-addon">$</div>
+                        <input name="principal" ref={input => this.principal = input} placeholder="Loan" className="form-control form-control-inline loanParameterInput"></input>
+                        <div className="input-group-addon">000</div>
+                      </div> at&nbsp;
+                      <div className="input-group">
+                        <input name="rate" ref={input => this.rate = input} placeholder="Rate" className="form-control form-control-inline loanParameterInput"></input>
+                        <div className="input-group-addon">%</div>
+                      </div> over&nbsp;
+                      <div className="input-group">
+                        <input name="term" ref={input => this.term = input} placeholder="Term" className="form-control form-control-inline loanParameterInput"></input>
+                        <div className="input-group-addon">years</div>
+                      </div>&nbsp;
+                      <button type="submit" className="btn btn-primary">Add</button>
+                    </div>
+                  </form>
+              </div>
+              <div className="col-lg-6"></div>
+
+           </div>
+           <div className="row">
+              <h3><i className="em em-two"></i> Financial scenarios</h3>
+              <p>Figures are monthly after tax. Please enter 0 if needed rather than blanks. None of this data is saved (and I can't see it, of course); if you refresh the page, it's gone.</p>
+              <div className="col-lg-1"></div>
+              <div className="paymentScenarioMain col-lg-10">
+                <PaymentScenarioTable paymentScenarios={this.state.paymentScenarios} />
+                  <form onSubmit={this.addPaymentScenario} className="form-inline paymentScenarioForm">
+                    <div className="form-group">
+                      <label>Add new:&nbsp;&nbsp;</label>
+                      <input name="scenarioname" ref={input => this.scenarioname = input} placeholder="Title" className="form-control form-control-inline paymentParameterInput"></input>
+                      <div className="input-group">
+                        <div className="input-group-addon">$</div>
+                        <input name="income1" ref={input => this.income1 = input} placeholder="Income 1" className="form-control form-control-inline paymentParameterInput"></input>
+                        <div className="input-group-addon">p.m.</div>
+                      </div>
+                      <div className="input-group">
+                        <div className="input-group-addon">$</div>
+                        <input name="income2" ref={input => this.income2 = input} placeholder="Income 2" className="form-control form-control-inline paymentParameterInput"></input>
+                        <div className="input-group-addon">p.m.</div>
+                      </div>
+                      <div className="input-group">
+                        <div className="input-group-addon">$</div>
+                        <input name="expenses" ref={input => this.expenses = input} placeholder="Expenses" className="form-control form-control-inline paymentParameterInput"></input>
+                        <div className="input-group-addon">p.m., excl. rent</div>
+                      </div>&nbsp;
+                      <button type="submit" className="btn btn-primary">Add</button>
+                    </div>
+                  </form>
+              </div>
+              <div className="col-lg-1"></div>
+            </div>
+
+            <div className="row">
+              <h3><i className="em em-three"></i> Are the repayments sufficient?</h3>
+              <div className="col-lg-2"></div>
+              <div className="intersectionMain col-lg-8">
+                <IntersectionTable loanScenarios={this.state.loanScenarios} paymentScenarios={this.state.paymentScenarios} />
+              </div>
+              <div className="col-lg-2"></div>
+            </div>
+          </div>
+        );
+      }
+    }
+
+    class IntersectionTable extends React.Component {
+      render() {
+        const loanScenarios = this.props.loanScenarios;
+        const paymentScenarios = this.props.paymentScenarios;
+
+        function createRow(loanScenario) {
+          function createCell(paymentScenario){
+            var result = checkIfServiceable(loanScenario, paymentScenario);
+            var cellkey = loanScenario.key + "-" + paymentScenario.key;
+            if (result != false){
+                return (<td key={cellkey} className="success">Yes - {result}% buffer</td>);
+            } else {
+                return (<td key={cellkey} className="danger">No - {calculateShortfall(loanScenario, paymentScenario)}% shortfall</td>);
+            }
+
+            function checkIfServiceable(loanScenario, paymentScenario){
+              if (paymentScenario.remainder > loanScenario.monthly){
+                return Math.round(paymentScenario.remainder / loanScenario.monthly * 100) - 100;
+              }
+              return false;
+            }
+
+            function calculateShortfall(loanScenario, paymentScenario){
+               return -1 * (Math.round(paymentScenario.remainder / loanScenario.monthly * 100) - 100);
+            }
+          }
+
+          var paymentScenarioColumns = paymentScenarios.map(createCell);
+
+          return (
+            <tr key={loanScenario.key}>
+              <td>${loanScenario.principal}k over {loanScenario.term} yrs</td>
+              {paymentScenarioColumns}
+            </tr>
+          );
+        }
+
+        function createTitleCell(paymentScenario){
+          return (<th key={paymentScenario.key}>{paymentScenario.scenarioname}</th>);
+        }
+
+        var paymentTitleCells = paymentScenarios.map(createTitleCell);
+        var loanScenarioRows = loanScenarios.map(createRow);
+
+        return (
+            <table className="table">
+              <thead>
+                <tr>
+                  <th>Loan &darr; / Scenario &rarr;</th>
+                  {paymentTitleCells}
+                </tr>
+              </thead>
+              <tbody>
+                {loanScenarioRows}
+              </tbody>
+            </table>
+        );
+      }
+    }
+
+
+    class LoanScenarioTable extends React.Component {
+      render() {
+
+        var loanScenarios = this.props.loanScenarios;
+        function createRow(loanScenario) {
+          return (
+              <tr key={loanScenario.key}>
+                <td>${loanScenario.principal}k</td>
+                <td>{loanScenario.rate}%</td>
+                <td>{loanScenario.term} yrs</td>
+                <td>${loanScenario.monthly}</td>
+                <td>${loanScenario.interest}k</td>
+              </tr>
+          );
+        }
+        var loanScenarioRows = loanScenarios.map(createRow);
+
+        return (
+          <table className="table loanScenarioList">
+            <thead>
+              <tr>
+                <th>Principal</th>
+                <th>Rate</th>
+                <th>Term</th>
+                <th>Monthly Payment</th>
+                <th>Total Interest</th>
+              </tr>
+            </thead>
+            <tbody>
+              {loanScenarioRows}
+            </tbody>
+          </table>
+        );
+      }
+    }
+
+    class PaymentScenarioTable extends React.Component {
+      render() {
+
+        var paymentScenarios = this.props.paymentScenarios;
+        function createRow(paymentScenario) {
+          return (
+              <tr key={paymentScenario.key}>
+                <td>{paymentScenario.scenarioname}</td>
+                <td>${paymentScenario.income1}</td>
+                <td>${paymentScenario.income2}</td>
+                <td>${paymentScenario.expenses}</td>
+                <td>${paymentScenario.remainder}</td>
+              </tr>
+          );
+        }
+        var paymentScenarioRows = paymentScenarios.map(createRow);
+
+        return (
+          <table className="table paymentScenarioList">
+            <thead>
+              <tr>
+                <th>Scenario</th>
+                <th>Income 1</th>
+                <th>+ Income 2</th>
+                <th>- Expenses</th>
+                <th>= Remainder</th>
+              </tr>
+            </thead>
+            <tbody>
+              {paymentScenarioRows}
+            </tbody>
+          </table>
+        );
+      }
+    }
+
+    ReactDOM.render(
+    <PricingModel />,
+    document.getElementById('paymentModelDiv')
+    );
+
+  </script>
+</body>
+</html>
