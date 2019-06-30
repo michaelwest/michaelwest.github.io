@@ -91,14 +91,14 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
 | **Missile** | Shoot magic darts; auto hits | 3 darts, each d6 | 3 darts, each d6 | 4 darts, each d8 | None |
 | **Blast** | Fire, cold, acid or poison blast | d6 damage in 10-foot square | 2d6 damage in 10-foot square | 3d6 damage in 15-foot square | Attack |
 | **Levitate** | Raise an object or character | Levitate up to 10 kg, slowly | Levitate up to 200 kg, slowly | Character up to 200 kg can fly | CON |
-| **Deception** | Deceive another | Disguise self and/or +5 to character persuasion attempt | Target is charmed | Character is invisible | INT |
+| **Deception** | Deceive another | Disguise self and/or +5 to persuasion attempt | Target is charmed | Character is invisible | INT |
 | **Slow** | Slow an enemy | Enemy has half movement | Enemy cannot move from square | Enemy completely paralysed | CON |
 | **Heal** | Restore hit points | Restore 1d8 | Restore 1d8 + 3 | Restore 1d8 + 5 | N/A |
-| **Shield** | Protect a character | +5 AC to character | +5 AC to character and +5 to saves | +5 AC to character and immune to extra damage types | N/A |
+| **Shield** | Protect a character | +5 AC | +5 AC and +5 to saves | +5 AC and immune to type damage (e.g. cold) | N/A |
 | **Agility** | Assist a character's movement | Double character's jump distance | Double character's movement | Character can spider climb | N/A |
 
-- **Environmental spells** affect the general environment
-  - Enlarge/Reduce - double/halve in all dimensions, +/- d4 to damage, CON save
+- **Environmental spells** affect the general environment and cost 2 points
+  - Enlarge/Reduce - double/halve a character or object in all dimensions, +/- d4 to damage, CON save
   - Feather Fall - no falling damage on up to five targets
   - Fog Cloud - ten squares are filled with dense fog which provides partial cover
   - Grease - five squares become slippery, DEX check to stand
