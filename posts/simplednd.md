@@ -31,6 +31,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
   - Fighter: Paladin, Barbarian, etc
   - Wizard: Cleric, Monk, etc
   - Rogue: Ranger, etc
+- **Hit points**: Initial HP is class dice + CON.
 
 ### Equipment
 - Complexity of equipment is significantly de-emphasised so that users can focus on role-playing / what's cool to them.
@@ -76,30 +77,30 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
 
 
 ## Spells
-- DC to resist spell is 10 + INT
+- Each character has (3*INT) spellcasting points ('mana') which are depleted by casting and replenished by a long rest.
+- Spells may also be cast for free when provided by a scroll or other magic item.
+- Spells do not need to be memorised ahead of time, but can be selected from the list.
+- DC to resist spell is 10 + INT.
+- Spells fall into 3 tiers. (At least - these are focused on low-level spells for low-level players, but could be extended.) A spell of tier N costs N mana to cast and can only be cast by a player with INT of at least N.
 
-- Level 1 spells:
-  - Light
-  - Minor illusion / levitation
-  - Element bolt - acid, fire, cold, poison
-  - Magic missile
-  - Shield
-  - Charm person
-- Level 2 spells:
-  - Detect magic
-  - Disguise
-  - Feather fall
-  - Grease
-  - Jump
-  - Thunderwave
-- Level 3 spells:
-  - Enlarge/Reduce
-  - Invisibility
-  - Hold Person
-  - Levitate
-  - Spider Climb
-  - Web
+| Spell | Description | Tier 1 | Tier 2 | Tier 3 |
+| --- | --- | --- | --- |
+| Magic Missile | Shoot magic darts at enemies; auto hits | 3 darts, each d6 | 3 darts, each d6 | 4 darts, each d8 |
+| Blast | Fire, cold, acid or poison blast; ranged attack save | d6 damage in 10-foot square | 2d6 damage in 10-foot square | 3d6 damage in 15-foot square |
+| Heal | Restore hit points | Restore 1d8 | Restore 1d8 + 3 | Restore 1d8 + 5 |
+| Levitate | Raise an object or character | Levitate up to 10 kg, slowly | Levitate up to 200 kg, slowly | Character up to 200 kg can fly |
+| Shield | Protect a character | +5 AC to character | +5 AC to character and +5 to saves | +5 AC to character and immune to extra damage types |
+| Movement | Assist a character's movement | Double character's jump distance | Double character's movement | Character can spider climb |
+| Deception | Deceive another | Disguise or +5 to character persuasion attempt | Target takes INT save or is charmed | Character is invisible |
+| Slow | Slow an enemy | Slowed | Paralysed |
 
+- Environmental spells
+  - Light - 20-foot radius
+  - Grease - four 5-foot squares become slippery, DEX check to stand
+  - Feather fall - no falling damage
+  - Enlarge/Reduce - double/halve in all dimensions, +/- d4 to damage, CON save
+
+- Concentration: persistent spells like levitate or hold person are broken by taking damage or casting another one.
 
 ## Adventures
 ### Monsters
