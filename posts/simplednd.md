@@ -1,8 +1,8 @@
 # Simple D&D
-A simplified ruleset to help making D&D narratives more accessible
+A simplified ruleset to help making D&D narratives more accessible.
 
 ## Motivation
-D&D provides a great framework for imaginative thinking. But its complex rules of D&D are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. This is a barrier for people with interesting narrative ideas from expressing those in a game. They can also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on DM discretion rather than strict enumeration.
+D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. This is a barrier for people with interesting narrative ideas from expressing those in a game. They can also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM discretion within a general framework, rather than strict enumeration.
 
 ## Player Characters
 ### Abilities
@@ -26,7 +26,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules o
   - **Fighter**: +1 STR, d10
   - **Wizard**: +1 INT, d6
   - **Rogue**: +1 DEX, d8; may use DEX for melee attacks
-  - Adventurer: +1 to any one score, d8 -- open class for any other character that a player wants to use, e.g. Bard with +1 CHA
+  - **Adventurer**: +1 to any one score, d8 -- open class for any other character that a player wants to use, e.g. Bard with +1 CHA
 - Variant classes are just absorbed into the main classes and role-played differently:
   - Fighter: Paladin, Barbarian, etc
   - Wizard: Cleric, Monk, etc
@@ -39,7 +39,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules o
   - Light: AC = 11 + DEX.
   - Medium: AC = 14 + DEX (max +2 from DEX) 
   - Heavy: AC = 17, must have STR 2 to wear, -2 to DEX checks
-- **Equipment**: Players can have arbitrary other equipment that seems appropriate - including default gear like torches, rope, and flasks, and anything class- or race-specific they think to add, like lock picks or a musical instrument.
+- **Equipment**: Players can have arbitrary other equipment that seems appropriate - including default gear like torches, rope, and flasks, and anything class- or race-specific they think to add, like lock picks or a musical instrument. You might want a trinket from the [Trinkets table](https://www.dndbeyond.com/sources/basic-rules/equipment#Trinkets).
 
 ## Mechanics
 ### Skills & Checks
@@ -48,7 +48,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules o
 - The "relevant ability" can be chosen by the DM but guidelines are:
   - STR: Lifting, carrying, pushing, breaking, jumping, climbing, wrestling
   - DEX: Balancing, sneaking, hiding (character or object), stealing, lockpicking/trap disabling
-  - INT: Recognising, perceiving, finding, healing
+  - INT: Recognising, perceiving, finding, healing, magic (including disabling magic traps)
   - CHA: Interacting, deceiving, performing, persuading
 - Passive checks (e.g. does the party notice something) can be taken by the DM, with 10 + relevant ability against the DC.
 
@@ -60,8 +60,10 @@ D&D provides a great framework for imaginative thinking. But its complex rules o
   - Melee attack: attack adjacent square, use STR (Rogue may use DEX)
   - Ranged attack: attack non-adjacent square, use DEX
   - Cast a spell (see spells)
-  - Movement-related: sprint (double movement)
-  - Perform any normal check action e.g. hide, climb, wrestle, heal
+  - Perform any normal check action e.g. hide, climb, leap, wrestle, heal
+  - Use an object / interact with environment - DM may define some tasks as taking multiple turns (e.g. hauling up a drawbridge)
+  - Dash: move again as your action
+  - Ready: reserve your action for something you want to happen instantly on the enemy's turn, if they do something (e.g. pull a trap when they stand on it)
 - **Attacks**:
   - Attack rolls are d20 + ability modifier + any magical weapon modifier; and must be greater than target Armour to hit.
   - On a successful hit, they do the amount of damage for their class dice. For example, a fighter might be using a sensible longsword or maniacally waving two morningstars, but either way it's a d10 for damage. Magic weapons may add additional damage at DM's discretion.
@@ -71,6 +73,43 @@ D&D provides a great framework for imaginative thinking. But its complex rules o
   - Weapons or spells may put a character or enemy into a state (e.g. on fire, poisoned) that does a bit more damage in subsequent turns.
 - **Cover**: Partial cover behind an obstacle gives +2 AC, full cover prevents attack.
 - **Dying**: The nature of these rules is that stakes should generally be lower than real D&D, and the risk of true character death minimised. At 0 HP, a character falls unconscious. Each turn, they lose 2 HP unless healed or stabilised. The DM may choose to set a threshold where the character actually dies.
+
+
+## Spells
+- DC to resist spell is 10 + INT
+
+- Level 1 spells:
+  - Light
+  - Minor illusion / levitation
+  - Element bolt - acid, fire, cold, poison
+  - Magic missile
+  - Shield
+  - Charm person
+- Level 2 spells:
+  - Detect magic
+  - Disguise
+  - Feather fall
+  - Grease
+  - Jump
+  - Thunderwave
+- Level 3 spells:
+  - Enlarge/Reduce
+  - Invisibility
+  - Hold Person
+  - Levitate
+  - Spider Climb
+  - Web
+
+
+## Adventures
+### Monsters
+
+
+### Encounter Difficulty
+
+### Traps & Objects
+
+### NPCs
 
 
 
