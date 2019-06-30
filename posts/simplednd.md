@@ -1,5 +1,5 @@
 # Simple D&D
-A simplified ruleset to help making D&D narratives more accessible.
+A simplified ruleset to help make playing D&D more accessible, in order to encourage new narratives.
 
 ## Motivation
 D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. This is a barrier for people with interesting narrative ideas from expressing those in a game. They can also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM discretion within a general framework, rather than strict enumeration.
@@ -88,11 +88,11 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
 
 | Spell | Description | Tier 1 | Tier 2 | Tier 3 | Save |
 | --- | --- | --- | --- | --- |
-| **Magic Missile** | Shoot magic darts at enemies; hits automatically | 3 darts, each d6 | 3 darts, each d6 | 4 darts, each d8 | None |
+| **Missile** | Shoot magic darts; auto hits | 3 darts, each d6 | 3 darts, each d6 | 4 darts, each d8 | None |
 | **Blast** | Fire, cold, acid or poison blast | d6 damage in 10-foot square | 2d6 damage in 10-foot square | 3d6 damage in 15-foot square | Attack |
-| **Levitate** | Raise an object or character; CON save | Levitate up to 10 kg, slowly | Levitate up to 200 kg, slowly | Character up to 200 kg can fly | CON |
+| **Levitate** | Raise an object or character | Levitate up to 10 kg, slowly | Levitate up to 200 kg, slowly | Character up to 200 kg can fly | CON |
 | **Deception** | Deceive another | Disguise self and/or +5 to character persuasion attempt | Target is charmed | Character is invisible | INT |
-| **Slow** | Slow an enemy | Enemy has half movement | Enemy cannot move | Enemy completely paralysed | CON |
+| **Slow** | Slow an enemy | Enemy has half movement | Enemy cannot move from square | Enemy completely paralysed | CON |
 | **Heal** | Restore hit points | Restore 1d8 | Restore 1d8 + 3 | Restore 1d8 + 5 | N/A |
 | **Shield** | Protect a character | +5 AC to character | +5 AC to character and +5 to saves | +5 AC to character and immune to extra damage types | N/A |
 | **Agility** | Assist a character's movement | Double character's jump distance | Double character's movement | Character can spider climb | N/A |
