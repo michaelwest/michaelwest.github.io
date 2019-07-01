@@ -1,14 +1,16 @@
-# Simple D&D
+# Super Simple D&D
 A simplified ruleset to help make playing D&D more accessible, in order to encourage new narratives.
 
 ## Motivation
-D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. This is a barrier for people with interesting narrative ideas from expressing those in a game. They can also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM discretion within a general framework, rather than strict enumeration.
+D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. The unofficial [Simple DND](https://simplednd.wordpress.com/) is better but still has a lot of non-essential content. This is a barrier for people with interesting narrative ideas from expressing those in a game. Complex rules also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. 
+
+The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM and players discretion within a general framework, rather than strict enumeration of abilities, items and situations.
 
 ## Player Characters
 ### Abilities
 - Characters have five abilities: **STR, INT, DEX, CON, CHA**.
 - These are expressed purely as a modifier, rather than an underlying value which maps to a modifier. So STR 1 means +1 to all strength checks.
-- When creating a character, players start with all abilities at 0. They can then modify scores by distributing 6 free points plus any further points they sacrifice off another ability. So a fighter might have STR 4, CON 2, DEX 0, INT 0, CHA 0 -- or STR 4, CON 3, DEX 1, INT -1, CHA -1.
+- Borrowing from Simple DND, the approach is that each ability must be between +3 and -3, with an overall total no higher than +5. (This is before modifications from race, class, or magic items.) So a character may have STR +3, CON +2, DEX +1, INT 0, CHA -1.
 - The max/min ranges for ability are at the discretion of the DM, but maybe +4/-4 is reasonable.
 
 ### Races
@@ -18,6 +20,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
   - **Dwarf**: +1 CON, +1 on resilience-related skill checks
   - **Elf**: +1 INT, +1 on perception-related skill checks
   - **Halfling**: +1 DEX, +1 on stealth-related skill checks
+  - **Ork**: +1 CON, +1 on physical-related skills checks
 
 ### Classes
 - Class adds +1 to one score. Class also provides a dice that is used for hit dice and for weapon damage (see below on equipment).
@@ -58,8 +61,8 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
   - If surprise is achieved (e.g. character's stealth check beats enemy's perception check), that character gets a free turn before anything else.
 - On each turn, move and take one action. Everyone has the same speed - decide for each battle what is appropriate based on the terrain.
 - **Actions**:
-  - Melee attack: attack adjacent square, use STR (Rogue may use DEX)
-  - Ranged attack: attack non-adjacent square, use DEX
+  - Melee attack: attack adjacent square, use STR (Rogue may use DEX) to hit, damage = class dice + STR
+  - Ranged attack: attack non-adjacent square, use DEX, damage = class dice
   - Cast a spell (see spells)
   - Perform any normal check action e.g. hide, climb, leap, wrestle, heal
   - Use an object / interact with environment - DM may define some tasks as taking multiple turns (e.g. hauling up a drawbridge)
@@ -74,6 +77,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
   - Weapons or spells may put a character or enemy into a state (e.g. on fire, poisoned) that does a bit more damage in subsequent turns.
 - **Cover**: Partial cover behind an obstacle gives +2 AC, full cover prevents attack.
 - **Dying**: The nature of these rules is that stakes should generally be lower than real D&D, and the risk of true character death minimised. At 0 HP, a character falls unconscious. Each turn, they lose 2 HP unless healed or stabilised. The DM may choose to set a threshold where the character actually dies.
+- **Morale**: At the DM's discretion, players may be required to make a CHA save (DC as appropriate to odds) or start to flee. Enemies can flee or surrender at DM's discretion.
 
 
 ## Spells
@@ -84,7 +88,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
 - Concentration: persistent spells like levitate or hold person are broken by taking damage or casting another one.
 
 ### Spell list
-- **Targeted spells** can be cast at one of three tiers. A spell at tier N costs N points to cast and can only be cast by a player with INT of at least N. 
+- **Targeted spells** can be cast at one of three tiers. A spell at tier N costs N points to cast and can only be cast by a player with INT of at least N.
 
 | Spell | Description | Tier 1 | Tier 2 | Tier 3 | Save |
 | --- | --- | --- | --- | --- |
@@ -92,7 +96,7 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
 | **Blast** | Fire, cold, acid or poison blast | d6 damage in 10-foot square | 2d6 damage in 10-foot square | 3d6 damage in 15-foot square | Attack |
 | **Levitate** | Raise an object or character | Levitate up to 10 kg, slowly | Levitate up to 200 kg, slowly | Character up to 200 kg can fly | CON |
 | **Deception** | Deceive another | Disguise self and/or +5 to persuasion attempt | Target is charmed | Character is invisible | INT |
-| **Slow** | Slow an enemy | Enemy has half movement | Enemy cannot move from square | Enemy completely paralysed | CON |
+| **Slow** | Slow an enemy | Enemy has half movement | Enemy paralysed | Enemy falls asleep | CON |
 | **Heal** | Restore hit points | Restore 1d8 | Restore 1d8 + 3 | Restore 1d8 + 5 | N/A |
 | **Shield** | Protect a character | +5 AC | +5 AC and +5 to saves | +5 AC and immune to type damage (e.g. cold) | N/A |
 | **Agility** | Assist a character's movement | Double character's jump distance | Double character's movement | Character can spider climb | N/A |
@@ -105,10 +109,11 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
   - Light - 20-foot radius
 
 ## Adventures
-### Monsters
-
-
-### Encounter Difficulty
+### Monsters & Encounters
+- A good reference for key monsters is at [Simple DND Monsters](https://simplednd.wordpress.com/monsters/).
+- Note suggestion of (total party levels * ~100) = (aggregate XP score of monsters) for a reasonable encounter.
+- A party should be able to handle about 6-8 encounters in a day.
+- Encounters can be modified (including on the fly) to make them easier or harder: reinforcements, withdrawal, terrain, obscuring fog, etc.
 
 ### Traps & Objects
 
