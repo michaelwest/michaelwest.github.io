@@ -2,7 +2,7 @@
 A simplified ruleset to help make playing D&D more accessible, in order to encourage new narratives.
 
 ## Motivation
-D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. The unofficial [Simple DND](https://simplednd.wordpress.com/) is better but still has a lot of non-essential content. This is a barrier for people with interesting narrative ideas from expressing those in a game. Complex rules also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. 
+D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. The unofficial [Simple DND](https://simplednd.wordpress.com/) is shorter again, but still longer than necessary. This is a barrier for people with interesting narrative ideas from expressing those in a game. Complex rules also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. 
 
 The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM and players discretion within a general framework, rather than strict enumeration of abilities, items and situations.
 
@@ -11,7 +11,6 @@ The goal here is to produce something at the complexity level of a moderate boar
 - Characters have five abilities: **STR, INT, DEX, CON, CHA**.
 - These are expressed purely as a modifier, rather than an underlying value which maps to a modifier. So STR 1 means +1 to all strength checks.
 - Borrowing from Simple DND, the approach is that each ability must be between +3 and -3, with an overall total no higher than +5. (This is before modifications from race, class, or magic items.) So a character may have STR +3, CON +2, DEX +1, INT 0, CHA -1.
-- The max/min ranges for ability are at the discretion of the DM, but maybe +4/-4 is reasonable.
 
 ### Races
 - Race adds +1 to one score and +1 to skills in a certain area. 
@@ -88,7 +87,7 @@ The goal here is to produce something at the complexity level of a moderate boar
 - Concentration: persistent spells like levitate or hold person are broken by taking damage or casting another one.
 
 ### Spell list
-- **Targeted spells** can be cast at one of three tiers. A spell at tier N costs N points to cast and can only be cast by a player with INT of at least N.
+**Targeted spells** can be cast at one of three tiers. A spell at tier N costs N points to cast and can only be cast by a player with INT of at least N.
 
 | Spell | Description | Tier 1 | Tier 2 | Tier 3 | Save |
 | --- | --- | --- | --- | --- |
@@ -101,7 +100,7 @@ The goal here is to produce something at the complexity level of a moderate boar
 | **Shield** | Protect a character | +5 AC | +5 AC and +5 to saves | +5 AC and immune to type damage (e.g. cold) | N/A |
 | **Agility** | Assist a character's movement | Double character's jump distance | Double character's movement | Character can spider climb | N/A |
 
-- **Environmental spells** affect the general environment and cost 2 points
+**Environmental spells** affect the general environment and cost 2 points:
   - Enlarge/Reduce - double/halve a character or object in all dimensions, +/- d4 to damage, CON save
   - Feather Fall - no falling damage on up to five targets
   - Fog Cloud - ten squares are filled with dense fog which provides partial cover
@@ -113,7 +112,7 @@ The goal here is to produce something at the complexity level of a moderate boar
 - A good reference for key monsters is at [Simple DND Monsters](https://simplednd.wordpress.com/monsters/).
 - Note suggestion of (total party levels * ~100) = (aggregate XP score of monsters) for a reasonable encounter.
 - A party should be able to handle about 6-8 encounters in a day.
-- Encounters can be modified (including on the fly) to make them easier or harder: reinforcements, withdrawal, terrain, obscuring fog, etc.
+- Encounters can be modified (including on the fly) to make them easier or harder: reinforcements, withdrawal, terrain, obscuring fog, etc. 
 
 ### Traps & Objects
 
