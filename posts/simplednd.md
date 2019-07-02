@@ -4,7 +4,7 @@ A simplified ruleset to help make playing D&D more accessible, in order to encou
 ## Motivation
 D&D provides a great framework for imaginative thinking. But its complex rules are intimidating for prospective players and even more so for prospective DMs. Even the [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) have fifteen chapters and four appendices. The unofficial [Simple DND](https://simplednd.wordpress.com/) is shorter again, but still longer than necessary. This is a barrier for people with interesting narrative ideas from expressing those in a game. Complex rules also dramatically slow the pace of gameplay for inexperienced players, implying a greater time commitment. 
 
-The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM and players discretion within a general framework, rather than strict enumeration of abilities, items and situations.
+The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM and players discretion within a general framework, rather than strict enumeration of abilities, items and situations. In particular, the DM should aim to dynamically balance situations by varying difficulties, damage amounts, monster behaviour etc in order to keep the narrative flowing, rather than trying to achieve a perfect mathematical balance beforehand and then killing the characters in practice. Things shouldn't always be easy, of course.
 
 ## Player Characters
 ### Abilities
@@ -33,7 +33,7 @@ The goal here is to produce something at the complexity level of a moderate boar
   - Fighter: Paladin, Barbarian, etc
   - Wizard: Cleric, Monk, etc
   - Rogue: Ranger, etc
-- **Hit points**: Initial HP is class dice + CON.
+- **Hit points**: Initial HP is 2*class dice + CON.
 
 ### Equipment
 - Complexity of equipment is significantly de-emphasised so that users can focus on role-playing / what's cool to them.
@@ -113,7 +113,7 @@ The goal here is to produce something at the complexity level of a moderate boar
 - Note suggestion of (total party levels * ~100) = (aggregate XP score of monsters) for a reasonable encounter.
 - A party should be able to handle about 6-8 encounters in a day.
 - Encounters can be modified (including on the fly) to make them easier or harder: reinforcements, withdrawal, terrain, obscuring fog, etc. 
-
+- Trap DC should generally be 10-15, damage can be varied at the discretion of the DM.
 ### Traps & Objects
 
 ### NPCs
