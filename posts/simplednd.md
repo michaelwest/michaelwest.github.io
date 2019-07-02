@@ -7,6 +7,8 @@ D&D provides a great framework for imaginative thinking. But its complex rules a
 The goal here is to produce something at the complexity level of a moderate board game. It is focused on one-shot adventures rather than levelling up over time; it is also mainly focused on early characters, but could be extended for higher-level characters. There is an emphasis on encouraging role-playing through allowing DM and players discretion within a general framework, rather than strict enumeration of abilities, items and situations. In particular, the DM should aim to dynamically balance situations by varying difficulties, damage amounts, monster behaviour etc in order to keep the narrative flowing, rather than trying to achieve a perfect mathematical balance beforehand and then killing the characters in practice. Things shouldn't always be easy, of course.
 
 ## Player Characters
+Players' ability to create and role-player a character that is fun for them should be paramount.
+
 ### Abilities
 - Characters have five abilities: **STR, INT, DEX, CON, CHA**.
 - These are expressed purely as a modifier, rather than an underlying value which maps to a modifier. So STR 1 means +1 to all strength checks.
