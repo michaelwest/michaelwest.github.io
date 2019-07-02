@@ -13,7 +13,7 @@ The goal here is to produce something at the complexity level of a moderate boar
 - Borrowing from Simple DND, the approach is that each ability must be between +3 and -3, with an overall total no higher than +5. (This is before modifications from race, class, or magic items.) So a character may have STR +3, CON +2, DEX +1, INT 0, CHA -1.
 
 ### Races
-- Race adds +1 to one score and +1 to skills in a certain area. 
+- Race adds +1 to one score and a further +1 to skill checks in a certain area. 
 - Races are: 
   - **Human**: +1 STR, +1 on conversation-related skill checks
   - **Dwarf**: +1 CON, +1 on resilience-related skill checks
@@ -39,9 +39,9 @@ The goal here is to produce something at the complexity level of a moderate boar
 - Complexity of equipment is significantly de-emphasised so that users can focus on role-playing / what's cool to them.
 - **Weapons**: Players can have arbitrary weapon/s as appropriate. See attacks below.
 - **Armour**: There are three choices with associated Armour Class (AC):
-  - Light: AC = 11 + DEX.
-  - Medium: AC = 14 + DEX (max +2 from DEX) 
-  - Heavy: AC = 17, must have STR 2 to wear, -2 to DEX checks
+  - Light: AC = 11 + DEX
+  - Medium: AC = 14 + DEX (max +2 from DEX), must have STR 2 to wear
+  - Heavy: AC = 17, must have STR 3 to wear, -2 to DEX checks
 - **Equipment**: Players can have arbitrary other equipment that seems appropriate - including default gear like torches, rope, and flasks, and anything class- or race-specific they think to add, like lock picks or a musical instrument. You might want a trinket from the [Trinkets table](https://www.dndbeyond.com/sources/basic-rules/equipment#Trinkets).
 
 ## Mechanics
@@ -100,6 +100,7 @@ The goal here is to produce something at the complexity level of a moderate boar
 | **Shield** | Protect a character | +5 AC | +5 AC and +5 to saves | +5 AC and immune to type damage (e.g. cold) | N/A |
 | **Agility** | Assist a character's movement | Double character's jump distance | Double character's movement | Character can spider climb | N/A |
 
+
 **Environmental spells** affect the general environment and cost 2 points:
   - Enlarge/Reduce - double/halve a character or object in all dimensions, +/- d4 to damage, CON save
   - Feather Fall - no falling damage on up to five targets
@@ -107,16 +108,12 @@ The goal here is to produce something at the complexity level of a moderate boar
   - Grease - five squares become slippery, DEX check to stand
   - Light - 20-foot radius
 
-## Adventures
-### Monsters & Encounters
+  ## Monsters & Encounters
 - A good reference for key monsters is at [Simple DND Monsters](https://simplednd.wordpress.com/monsters/).
 - Note suggestion of (total party levels * ~100) = (aggregate XP score of monsters) for a reasonable encounter.
 - A party should be able to handle about 6-8 encounters in a day.
 - Encounters can be modified (including on the fly) to make them easier or harder: reinforcements, withdrawal, terrain, obscuring fog, etc. 
 - Trap DC should generally be 10-15, damage can be varied at the discretion of the DM.
-### Traps & Objects
-
-### NPCs
 
 
 
