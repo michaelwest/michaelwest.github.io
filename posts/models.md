@@ -9,9 +9,28 @@ There are plenty of existing guides to mental models. Some that I've found usefu
 
 But I've also found that sometimes these err towards presenting models in a way that isn't helpful for the average person. If you're Warren Buffett (a frequent hero on Farnam Street), you have both the time and the motivation to really refine your thinking on each very specific investment decision, stamping out all cognitive bias in pursuit of an accurate model of the world. But most people probably aren't facing big, abstract, strategic questions like that very often. 
 
-Patrick Collison captured this well during an [interview with Tim Ferriss](https://tim.blog/2018/12/24/the-tim-ferriss-show-patrick-collison/).
+Patrick Collison captured this well during an [interview with Tim Ferriss](https://tim.blog/2018/12/24/the-tim-ferriss-show-patrick-collison/). I just want to reproduce that here:
 
 > Tim Ferriss: But could you talk about your framework for making decisions or how you have cultivated making faster decisions? Because this is I think so important. And along with the involvement of now successful entrepreneurs as kids at the dinner table, the focus on making fast decisions even if there’s a 10 percent or more error rate pops up a lot. Reid Hoffman, LinkedIn fame, another good example of that. I would love to hear you – talk us through that because on a day to day basis, I know that’s important. And yet, I need a methodical way to practice it more if that makes sense.
+
 > Patrick Collison: Yes. Let me think for a second. I actually think that decision making is probably a little bit overrated as a question or an area of study in that – investors, obviously, this is their job, right? And that’s all they can do in some sense, invest or not. And fine if they’re – certain kinds of investors get to actually help the companies they invest in. So they have other levers at the disposal. But in some simplified model, it’s like, “Do you click the button or not? Do you pull the lever or not?” I actually think that in our lives, things rarely have that character. Sometimes you have a true binary decision like, “Do I go to this college or that college?” “Do I take this job offer or not?” And it’s an investing or investment-like decision.
+
 > But it’s not usually that. And I think that the question I would encourage people to think more about is, “How do I get to make better decisions?” as in, “How do I make sure the decisions I’m confronted with end up being better?” It’s not like, “How should I choose between option A and B,” but, “How do I make sure that both options A and B are as good as possible, and there’s also a C, D, and E, and that those options are great too?” And that’s about how do you explore the space to make sure that you – well, just to return to the example we just mentioned, it’s like, “Do I go to this college or that college?” There’s also a C there which is, “Well, should I go to college?” Or it’s, “Should I become a doctor or a dentist?” But maybe the answer is that you should become a biochemist. And so the way I would – I find myself in conversations with people really trying to push them.
+
 > It’s less on how do you make a decision and more about how do you jolt yourself out of the particular furrows that you’re in and realize the possibility space and the world is just so much bigger than perhaps people are thinking about. It happens to all of us. It happens to me, that your horizons narrow. You get stuck in your existing models. You get used to conceiving of the world and the options in front of you in a particular way. And it’s more about how do you repeatedly pull yourself out of that.
+
+So with that framing in mind, I wanted to pull together a few models I've found helpful in less abstract, more operational settings.
+
+## Bikeshedding
+
+
+## Boiling frog
+
+
+## Availability bias
+
+
+## Hanlon's razor and fundamental attribution bias
+
+
+## Power law / Pareto 
