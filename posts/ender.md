@@ -1,3 +1,5 @@
+<header><title>Ender's Farmville</title></header>
+
 # Ender’s Farmville
 
 I’ve written previously about how simulation games can help you develop an understanding of mental models and strategies. But what if the stakes were higher? What if instead of just simulating the world as you played, you were directly impacting it?

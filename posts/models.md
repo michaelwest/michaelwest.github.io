@@ -1,3 +1,5 @@
+<header><title>Operational mental models</title></header>
+
 # Operational mental models
 
 Mental models are how we understand the world, typically via shortcuts that our brains use to simplify our complex reality. These shortcuts are not necessarily helpful: what evolves to work well for a primate on the African savannah may not work well in a modern society. The bias towards seeing patterns in noise that helped your ancestor spot a camouflaged predator might lead you to see conspiracies in random events.

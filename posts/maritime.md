@@ -1,3 +1,5 @@
+<header><title>Maritime republics</title></header>
+
 # Italy’s maritime republics: the first marketplace startups
 
 Medieval-Renaissance Italy had four significant maritime republics: Genoa, Venice, Pisa and Amalfi. On a recent trip I visited Venice and Amalfi, with a quick stop in Pisa. It’s really striking how small these places are, considering they each served as the wealthy heart of a powerful mercantile state. Amalfi, for example, crawls up steep hillsides with almost no flat land, but it sustained a busy port filled with, as Longfellow put it, “freighted barks from the marts of east and west”. As a key stopping point between Western Europe and the Holy Land, Amalfi was filled with both “merchants with their wares” and “pilgrims with their prayers”.
