@@ -10,7 +10,7 @@ So perhaps the question we really need to ask is: How can I best make a social i
 
 Luckily, this is a question we have spent thousands of years answering — for economic impacts, rather than social ones. One of our best answers to improving economic productivity is skill specialisation, backed up by extensive education. Working hard to apply this to social fields opens up new opportunities for “disruptive volunteering”.
 
-Disruptive volunteering is the concept that volunteers will have the highest, most transformative impact on a social organisation if they are given individualised opportunities to use their specialised skills.
+*Disruptive volunteering is the concept that volunteers will have the highest, most transformative impact on a social organisation if they are given individualised opportunities to use their specialised skills.*
 
 Maybe this seems obvious, and undoubtedly many organisations are already deeply engaged in this approach. It underpins the idea of pro bono work by law firms and software companies, for example, and Toyota ran a program of donating their expertise with kaizen operational efficiency techniques to food banks. But in the personal domain, it’s rarer. Consider these stories:
 > Anita is a software engineer. She wants to contribute to a local nonprofit, so she signs up for a charity fun run. She approaches people she knows for donations (although she is quite introverted and doesn’t enjoy doing this), and raises $500 for about ten hours of effort. A week later, the nonprofit needs a new website and pays a web company $3000 for ten hours of work to create it.
