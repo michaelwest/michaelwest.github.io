@@ -1,3 +1,5 @@
+<header><title>Ghosts in the machine</title></header>
+
 # Ghosts in the machine
 
 Many types of software have fostered devoted online communities, but perhaps none more so than gaming. Although Stack Overflow or Github represent amazing achievements of collective engagement, there aren’t many people who’d sit for hours watching a Twitch-style stream of somebody else programming or using Excel.

@@ -9,7 +9,4 @@ This dynamic – with a small centre managing to amass significant wealth, as op
 But perhaps it’s also worth noting that Amalfi fell quite quickly once it came under serious attack, whereas the Roman Empire went through a gradual decline. If you go to the effort of amassing the empire, then you have some strategic depth to fall back on. Hilton’s asset base is worth a lot even if its star is gradually fading. Airbnb and Uber, being relatively ephemeral, are more vulnerable to being rapidly devalued by a superior competitor – a bit like Venice was cut out of the lucrative spice trade when the Portuguese discovered new routes that went direct to the sources in India and Southeast Asia.
 
 This vulnerability is perhaps why the marketplace startups have spent so heavily on rapid growth to build the network effects that lock in customers and suppliers. It’s their only defence against the fate that Longfellow described for Amalfi:
-> Vanished like a fleet of cloud
-> Like a passing trumpet-blast
-> Are those splendours of the past
-> And the commerce and the crowd!
+> Vanished like a fleet of cloud / Like a passing trumpet-blast / Are those splendours of the past / And the commerce and the crowd!
