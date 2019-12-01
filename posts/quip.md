@@ -1,20 +1,27 @@
-<header><title>Quip and implicit skeuomorphism</title></header>
-
 ## Unsolicited Feedback
 # Quip
 
-- Quip is great for collaborative editing
-- But the experience of reviewing lots of comments is terrible
-- Quip should have an inbox view where you can, paragraph by paragraph, review the items you're tagged to
-- Underlying point: it doesn't need to be a single document any more; it's not paper
-- This reflects a kind of implicit skeuomorphism, even if it's not as expicit as early iOS Notes app (rich Corinthian leather, etc)
-- What are other ways you could improve the UX by letting go of this implicit skeuomorphism?
--- Templatising parts of content, making it easier to insert elsewhere? e.g. having a standard intro that is relied upon by a bunch of other documents
--- Conditional documents: e.g. an onboarding guide where you answer some questions at the top, and the content below adjusts
--- Notion of ownership for parts of a document, then "show me just the parts I own" - useful in very long documents
--- Cf. Prezi - different way of arranging slides to allow for more movement in other directions
--- Is Quip's folder structure or Confluence's sub-page structure optimal for organising? Or neither? Search vs browse - search good if you know what you want...
+[Quip](https://quip.com/) is a document editor defined by collaboration. It enables a dramatically better co-authoring experience than static Word documents. (Most of what I'm writing here about Quip also applies to Google Docs.)
 
-- What would the use cases be? What would make Quip a killer app for document-heavy teams, say, lawyers?
-- How do you solve the knowledge management use case in a company? Quip (/Confluence/Help) vs Slack vs Stack Overflow
-- Has the Quip app platform succeeded?
+Collaboration in Quip is driven by two features:
+1. Live editing of the same document by multiple users. This works fine; it's basically table stakes for a modern web app, I guess. 
+2. Social comments, where users can be tagged in the context of specific text, receive notifications when tagged, and mark comments as resolved.
+
+Social comments are important and help make Quip sticky: you are constantly pulled back into it by people tagging you against documents. **But if you're working on any document of significant size, comments quickly become a mess**. All comments on the document are shown in a single chronological sidebar. It's hard to find which comments are assigned to you; it's also hard to find comments you tagged someone else in, to see if they've followed up; and multiple comments in a single thread are disconnected from each other. Your workflow becomes a nightmare of scrolling, reading, and making edits. The problems multiply if you're working across several documents, or if people are still actively commenting while you're trying to catch up.
+
+These issues stem from Quip treating the document as the fundamental unit of the interface. In a world of paper, or a desktop document editor, this is obviously necessary. But in a web app, it's not: **documents in a web app are divisible**. Each paragraph with a comment could be broken out of its original document and unified into an inbox of, say, "paragraphs that need action". Editing the paragraph in the inbox view would also edit it in place in the original document -- it's just a reference to the same text. So rather than jumping between documents and scrolling to find commented paragraphs, the user could smoothly work through an inbox of actions, resolving each comment as she goes.
+
+The lack of a feature like this -- in either Quip or Google Docs -- probably just reflects prioritisation. It's kind of a power user feature, and they're better served by building things like Salesforce data integration to drive broad use by sales teams. But I think it might also reflect a kind of **implicit skeuomorphism**. (Skeuomorphism is the tendency to retain design cues that are no longer necessary when moving from one design medium to another, like the faux leather binding and torn-off yellow pages in the early iOS Notes app.) We've spent so much time thinking about documents as indivisible units - whether on paper, or as desktop files - that it might not be obvious that we could reinvent them by breaking them down and recombining them.
+
+What other ways might we improve the user experience by letting go of this old notion, and thinking about documents more granularly? A few ideas:
+- **Templatised content blocks**, that can be inserted and relied upon in other documents, with automatic updates everywhere if the template is updated. This could be used to ensure consistently up-to-date application of standard text like company outlines, product descriptions, disclaimers, and terms and conditions.
+- **Conditional documents**, where certain paragraphs can be dynamically included or excluded; say, based on some questions answered by the document reader at the top, or metadata of the reader's account. This idea recognises the fact that many documents contain lots of paragraphs that are only relevant to some readers, and produce a better experience by enabling those to be filtered smoothly away.
+- **Paragraph ownership**, where each paragraph or section can be given an owner, and each user can choose to see only the parts that he or she owns. When working on very long, collaborative documents (e.g. a complex project proposal) that are taxing to display and navigate, being able to shrink down just to the items of direct responsibility cuts down on cognitive load.
+- **Non-linear documents** -- perhaps a bit too zany, but if you start thinking of documents as just a set of content blocks rather than a linear stream of text, you might consider something akin to how Prezi enables non-linear redirection between slides compared to PowerPoint's linear step-through. I'm not actually sure that this would be useful: the process of building a linear narrative out of floating thoughts is usually helpful, and there is plenty of mind-mapping and idea-capture software in the world already. 
+
+A few other product reflections on Quip:
+1. The default **'news feed' is very noisy** because it shows all updates from all documents that I can theoretically access -- even if I've never interacted with them. (You can disable this on a per-folder basis, but that is unrealistically painstaking to carry out across lots of folders.) I think a feed of 'updates to documents I've opened' would be much better.
+2. 'Chat rooms' seem like a vestigial feature (and a quasi-expression of [Zawinski's law](http://www.catb.org/~esr/jargon/html/Z/Zawinskis-Law.html) -- I wonder if anyone uses them, or if they could just be deleted from the product. Maybe organisations without an alternative like Slack or Teams.
+3. Although I use Quip a lot more than Confluence, I appreciate Confluence's ability to nest pages under a parent page, and have the parent page show an automatically-generated set of links to the child pages. This makes maintaining and navigating a set of related pages quite simple. Quip's folder structure takes a bunch of manual work. I guess they expect most people to rely on search but **search is only useful if you know what you're looking for**.
+4. In contrast to Slack, I haven't noticed much impact from Quip introducing their app platform. I wonder how successful they view this as being; I'm not sure if there are lots of apps in use in some other organisations.
+5. The work on live data integrations, in the wake of the Salesforce acquisition, is interesting and perhaps a good example of them starting to reimagine documents as being more dynamic and changeable, and driving more towards solving the actual workflow. Consider this [point from Benedict Evans](https://www.ben-evans.com/benedictevans/2015/11/7/mobile-ecosystems-and-the-death-of-pcs): "Then, in our own time, every week, thousands of VPs in hundreds of companies pull data out of internal systems into Excel, make charts, paste them into Powerpoint, write bullets and email the PPT to a dozen stakeholders. But actually, their job isn't to make Powerpoint - that's just a tool. Their job is to do something, not make slides, and that PPT should really be a live SaaS dashboard." Quip might not be jumping all the way to the SaaS dashboard, but live-updating data inside the document is an OK start.
