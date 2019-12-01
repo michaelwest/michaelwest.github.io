@@ -85,3 +85,20 @@ Memorable scenes:
 * Venetian colonial empire on Crete, Cyprus, far edge of Black Sea with Mongols, etc. Stuck to ports rather than pushing inland in say Greece. In Mamluk Egypt, practiced consistent diplomacy.
 * Wars with Genoa almost led to downfall including one that came right to the lagoon. European and Byzantine infighting allowed gradual rise of Ottomans who, by conducting combined land-sea operations against ports, were able to take over territory and squeeze out Venice's stronger navy.
 
+## How to Operate, by Keith Rabois 
+- Leader's role as an editor, not a writer. Red pen - cut things out, simplify. Only focus on 2-4 things that really matter. Goal over time is to use less red ink.
+- Delegate - hard to walk between abdicating and micro-managing. Task-relevant maturity - give people more leeway when they have done the task before. Management style needs to be dictated by employee in a task rather than by your own 'style'. Alternatively, think about 2x2 of consequence and conviction - step in at high-consequence, high-conviction; and explain why.
+- Most companies expect that hiring more engineers will improve throughput, but it doesn't. Most people are 'ammunition', but you need more people who are 'barrels'. A barrel can take an idea through conception to shipping. You want to expand scope of responsibilities gradually until you see where it breaks.
+- Insist on focus. Thiel - each person should do only one thing. Everyone rebelled. Focus until you conquer a problem - otherwise people will solve the B+ problems they understand how to solve, rather than the A+ ones they don't. Metrics and transparency, via a dashboard, that defines business success. Do employees actually use this dashboard?
+
+## Amazon 2016 shareholder letter, by Jeff Bezos
+- Customer obsession, because their dissatisfaction drives product forward
+- Resist proxies, like metrics/focus groups as opposed to deep understanding (cf Thiel's 'secret' - could anyone build this based on simply following metrics, or does it embody a secret)
+- Embrace external trends like ML
+- High-velocity decision-making, eg simple approval for reversible decisions, make decisions with 70% not 95% of necessary info, use concept of "disagree and commit", escalate disputes that are base on misalignment in objectives or worldview.
+
+## Creation and consumption, by Benedict Evans
+[Original](http://ben-evans.com/benedictevans/2017/7/13/creation-and-consumption)
+Don't think of capability in the abstract or as 'technically possible' for power users - has to be truly accessible to be useful and valuable. Cf Marissa Mayer's "big green photocopier button". And then consider how it goes if you use ML or other behind-the-scenes technology to proactively push things to people rather than requiring them to know how to pull those things out of the system.
+
+> "It seems to me that when people talk about what you "can't" do on a device, there are actually two different meanings of "can't" in computing. There is "can't" as meaning the feature doesn't exist, and there is "can't" as meaning you don't know how to do it. If you don't know how to do it, the feature might as well not be there. So, there is what an expert can't do on a smartphone or tablet that they could do on a PC. But then there are all of the things that a normal person (the other 90% or 95%) can't do on a PC but can do on a smartphone, because the step change in user interface abstraction and simplicity means that they know how to do it on a phone and didn't know how to do it on a PC. That is, the step change in user interface models that comes with the shift from Windows and Mac to iOS and Android is really a shift in the accessibility of capability. A small proportion of people might temporarily go from can to can't, but vastly more go from can't to can."
