@@ -2,16 +2,19 @@
 
 ## Cognitive Surplus
 _Clay Shirky_
+
 Across developed economies, there is roughly a trillion hours of spare time per year. This is "cognitive surplus" available after working to meet everyday needs. Previously, this time has been spent on passive activities such as watching television. Increasingly, the internet is enabling it to be put to use in creative or community-driven activities.
 
 Groups emerging in these ways can be equal or superior to traditionally organised groups. Examples include sites like Wikipedia, Ushahidi, and Josh Groban's charity-driven fanbase. Even meaningless creation, such as lolcats, is viewed by Shirky as better than non-creative activities, because it is still creation.
 
 ## The Wisdom of Crowds
 _James Surowiecki_
+
 The average estimate of a large number of people is often better than the estimate of a small number of experts. Two examples given are estimating (1) the weight of a cow at a country fair, and (2) the position of a sunken submarine.	
 
 ## The Unwinding
 _George Packer_
+
 Covers the decline of the middle class and institutional framework of the United States over the last 40 years, by tracking five main stories: Tammy Thomas, a factory worker turned community organiser in the declining factory town Youngstown; Jeff Connaughton, a Washington insider witnessing the rise of lobbying; Peter Thiel and Silicon Valley; Dean Price, a struggling rural biofuel entrepreneur; and Tampa, a heartland of the subprime crisis.
 
 A major theme is the detrimental impact of the financialisation of the US economy, in terms of hollowing out places like Youngstown via manufacturing closures; enabling the subprime crisis by repackaging debts in ways that shifted and concealed major risks; and having a corrupting influence on policymaking.
@@ -20,14 +23,17 @@ A memorable quote, from the profile of Raymond Carver: "He seemed to know, in th
 
 ## The New New Thing
 _Michael Lewis_
+
 A biography of entrepreneur Jim Clark, supposedly the first person to found three separate billion-dollar companies: Silicon Graphics, Netscape, and Healthscape (later WebMD). He grew up poor but developed very ambitious visions of how to reshape significant parts of the economy, in an archetypal Silicon Valley way, and succeeded to some extent in realising them. He was also an early driver of the practice of rewarding engineers with substantial equity, instead of allowing financiers to take most of the profits.	
 
 ## The Innovator's Solution
 _Clay Christensen_
+
 Following on from the Innovator's Dilemma, Christensen discusses how most businesses fail to achieve sustained growth, because they do not carefully plan how to build an engine for generating new disruptive businesses. These businesses should have independent resourcing, and be hungry for profit (so that they can stand alone and not have resources stripped by the rest of the organisation) but patient for growth (so that they can find the right product-market fit). Not clear how this applies to being a disruptive business yourself.	
 
 ## Boomerang
 _Michael Lewis_
+
 Essays on the financial crisis, outside of Wall Street.
 - Iceland, a sudden increase in investment banking, without any collective experience, driven to some extent by an aggressive culture.
 - Greece, public servants overpaid for low performance, and tax fraud as a way of life.
@@ -37,22 +43,26 @@ Essays on the financial crisis, outside of Wall Street.
 
 ## Beyond the Boom
 _John Edwards_
+
 Australia's mining boom has not had as large an influence on Australia's economy as many claim. Growth on many measures was about the same in 1992-2002 as it was during the boom years (ie high export prices) of 2002-2012, even excluding the impact of the GFC. Apparent boom in Australia's GDP and wages was heavily due to changes in exchange rate against US dollar; measuring in PPP reduces the impact. Because Australia's mining industry is about 80% foreign owned, and mining is capital intensive (profit = 4x wages, vs profit = 2x wages in the wider economy), also reduced amount of economic impact here. For $100 mining value added after expenses, wages $20, state royalties $6, federal tax $14, foreign shareholders $48, Australian shareholders $12. Much of current federal deficit problems are due to cuts to personal income tax made when high company tax disguised the weakness of that revenue structure. During the boom, Australians also saved more, became more educated, and worked more than outside the boom, rather than wasting the inflow of income.	
 
 ## The Second Machine Age
 _Erik Brynjolfsson and Andrew McAfee_
+
 - Inflection point in 1750 with steam engine. Almost no economic, social or population growth for previous 400 years.
 - Exponential progress of Moore's Law not just in processing power but related areas like storage, chip energy efficiency, network speed
 - Recent progress due to (1) Moore's Law, (2) Digitisation -> big data, (3) Recombinant innovation	
 
 ## The Name of God is Mercy
 _Pope Francis_
+
 - "pardon is the instrument placed into our fragile hands to attain serenity of heart. To let go of anger, wrath, violence and revenge are necessary conditions to living joyfully."
 - "whatever you did for these least brothers of mine, you did for me" Matthew 25:40
 - "Corruption is not an act but a condition, a personal and social state in which we become accustomed to living. The corrupt man is so closed off and contented in the complacency of his self-sufficiency that be does not allow himself to be called into question by anything or anyone. The self-confidence he has built up is based on a fraudulent behaviour: he spends his life taking opportunistic shortcuts at the cost of his own and others' dignity."
 
 ## Wind Sand and Stars
 _Antoine de Saint-Exupery_
+
 "The earth teaches us more about ourselves than all the books in the world, because it is resistant to us. Self-discovery comes when man measures himself against an obstacle. To attain it, he needs an implement. He needs a carpenter's plane, or a plough. Little by little, as he walks behind the plough, the farmer forces out a few of nature's secrets, and the truth which he uncovers is universal. In the same way the aeroplane, the implement of the airline companies, brings man face to face with all the old problems."
 
 Memorable scenes:
@@ -66,6 +76,7 @@ Memorable scenes:
 
 ## On Tyranny
 _Timothy Snyder_
+
 1. Do not obey in advance
 2. Defend institutions: actively choose one to support
 3. Beware the one-party state: support multi-party democracy, vote
@@ -90,6 +101,7 @@ _Timothy Snyder_
 
 ## City of Fortune
 _Roger Crowley_
+
 (A history of Venice focused on the Fourth Crusade.)
 * Lack of arable land meant no feudal class based on extracting labour from peasants; instead noble influence grew from entrepreneurial merchant ventures.
 * Strong central/communal control unlike libertarian Genoa. Heavy coordination and regulations on trade routes (prices and timing), ambassadors, etc. Large ships owned by state but leased to merchants. Annual routes to Egypt etc enabled reliability of supply which encouraged other merchants to buy in Venice.
@@ -99,6 +111,7 @@ _Roger Crowley_
 
 ## How to Operate
 _Keith Rabois_
+
 - Leader's role as an editor, not a writer. Red pen - cut things out, simplify. Only focus on 2-4 things that really matter. Goal over time is to use less red ink.
 - Delegate - hard to walk between abdicating and micro-managing. Task-relevant maturity - give people more leeway when they have done the task before. Management style needs to be dictated by employee in a task rather than by your own 'style'. Alternatively, think about 2x2 of consequence and conviction - step in at high-consequence, high-conviction; and explain why.
 - Most companies expect that hiring more engineers will improve throughput, but it doesn't. Most people are 'ammunition', but you need more people who are 'barrels'. A barrel can take an idea through conception to shipping. You want to expand scope of responsibilities gradually until you see where it breaks.
@@ -106,6 +119,7 @@ _Keith Rabois_
 
 ## Amazon 2016 shareholder letter
 _Jeff Bezos_
+
 - Customer obsession, because their dissatisfaction drives product forward
 - Resist proxies, like metrics/focus groups as opposed to deep understanding (cf Thiel's 'secret' - could anyone build this based on simply following metrics, or does it embody a secret)
 - Embrace external trends like ML
@@ -113,6 +127,7 @@ _Jeff Bezos_
 
 ## Creation and consumption
 _Benedict Evans_
+
 [Original](http://ben-evans.com/benedictevans/2017/7/13/creation-and-consumption)
 Don't think of capability in the abstract or as 'technically possible' for power users - has to be truly accessible to be useful and valuable. Cf Marissa Mayer's "big green photocopier button". And then consider how it goes if you use ML or other behind-the-scenes technology to proactively push things to people rather than requiring them to know how to pull those things out of the system.
 
