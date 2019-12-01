@@ -16,4 +16,5 @@
 -- Is Quip's folder structure or Confluence's sub-page structure optimal for organising? Or neither? Search vs browse - search good if you know what you want...
 
 - What would the use cases be? What would make Quip a killer app for document-heavy teams, say, lawyers?
-
+- How do you solve the knowledge management use case in a company? Quip (/Confluence/Help) vs Slack vs Stack Overflow
+- Has the Quip app platform succeeded?
