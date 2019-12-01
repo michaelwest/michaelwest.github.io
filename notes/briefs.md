@@ -37,12 +37,12 @@ Australia's mining boom has not had as large an influence on Australia's economy
 - Exponential progress of Moore's Law not just in processing power but related areas like storage, chip energy efficiency, network speed
 - Recent progress due to (1) Moore's Law, (2) Digitisation -> big data, (3) Recombinant innovation	
 
-# The Name of God is Mercy, by Pope Francis
+## The Name of God is Mercy, by Pope Francis
 - "pardon is the instrument placed into our fragile hands to attain serenity of heart. To let go of anger, wrath, violence and revenge are necessary conditions to living joyfully."
 - "whatever you did for these least brothers of mine, you did for me" Matthew 25:40
 - "Corruption is not an act but a condition, a personal and social state in which we become accustomed to living. The corrupt man is so closed off and contented in the complacency of his self-sufficiency that be does not allow himself to be called into question by anything or anyone. The self-confidence he has built up is based on a fraudulent behaviour: he spends his life taking opportunistic shortcuts at the cost of his own and others' dignity."
 
-# Wind Sand and Stars, by Antoine de Saint-Exupery
+## Wind Sand and Stars, by Antoine de Saint-Exupery
 "The earth teaches us more about ourselves than all the books in the world, because it is resistant to us. Self-discovery comes when man measures himself against an obstacle. To attain it, he needs an implement. He needs a carpenter's plane, or a plough. Little by little, as he walks behind the plough, the farmer forces out a few of nature's secrets, and the truth which he uncovers is universal. In the same way the aeroplane, the implement of the airline companies, brings man face to face with all the old problems."
 
 Memorable scenes:
@@ -54,7 +54,7 @@ Memorable scenes:
 - Providing an old servant/slave with freedom by buying him from owners.
 - Crashing in Egypt and surviving for days with very little water: extreme hardship.
 
-# On Tyranny, by Timothy Snyder
+## On Tyranny, by Timothy Snyder
 1. Do not obey in advance
 2. Defend institutions: actively choose one to support
 3. Beware the one-party state: support multi-party democracy, vote
@@ -77,7 +77,7 @@ Memorable scenes:
 20. Be courageous
 "In politics, being deceived is no excuse" - Leszek Kolakowski
 
-# City of Fortune, by Roger Crowley
+## City of Fortune, by Roger Crowley
 (A history of Venice focused on the Fourth Crusade.)
 * Lack of arable land meant no feudal class based on extracting labour from peasants; instead noble influence grew from entrepreneurial merchant ventures.
 * Strong central/communal control unlike libertarian Genoa. Heavy coordination and regulations on trade routes (prices and timing), ambassadors, etc. Large ships owned by state but leased to merchants. Annual routes to Egypt etc enabled reliability of supply which encouraged other merchants to buy in Venice.
