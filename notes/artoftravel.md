@@ -17,7 +17,7 @@
 
 *Gas*:
 
-![](images/aot-gas.jpeg)
+![](images/aot-gas.png)
 
 *Nighthawks*:
 
