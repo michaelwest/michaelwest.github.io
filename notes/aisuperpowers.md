@@ -21,8 +21,8 @@ Google still has a strong lead in AI research. It has about half of the top 100 
 3. Perception AI: facial recognition etc for commerce, education, law enforcement, etc. Predicts 🇨🇳 accelerating lead due to Chinese nonchalance about data privacy and their hardware manufacturing (eg Shenzhen) integration.
 4. Autonomous AI: drones, cars, other robots (eg weed picker). 🇨🇳 building significant infrastructure (new highways, cities) with this in mind. But this area is complex and needs elite researchers, which means 🇺🇸 advantage.
 
-![Replacement - cognitive labour](images/aisuperpowers-1.jpeg)
-![Replacement - physical labour](images/aisuperpowers-2.jpeg)
+![Replacement - cognitive labour](images/aisuperpowers-1.jpeg | width=100)
+![Replacement - physical labour](images/aisuperpowers-2.jpeg | width=100)
 
 ### Coping with AI
 Strategies for coping with job displacement. Reduce working hours and spread across workers. Retrain workers. Redistribute income. Rather than UBI, have a social investment stipend that is paid to people engaged in prosocial activities: care, community service, education. Social impact investing that is accepting of linear rather than exponential returns. Private jobs that leverage AI with “human veneer” to create new roles that are more widespread and affordable than current roles: “compassionate caregiver” rather than just doctor. (This dovetails with idea of AI-enabled roles that are currently inaccessible to many.)
