@@ -8,6 +8,7 @@
 - United Front stems from Mao's time (one of "three magic weapons" along with party-building and armed struggle); priority focus on overseas Chinese students, individuals in new media, and young entrepreneurs/businesspeople.
 
 ### CCP pressure on other governments
+
 | Country | Year | Trigger | Pressure | Response |
 | --- | --- | --- | --- | --- | --- |
 | France | 2008 | President met with Dalai Lama | Suspended Airbus order, cancelled tradee delegations | None immediately, but no further meetings |
