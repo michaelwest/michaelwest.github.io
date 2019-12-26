@@ -21,7 +21,7 @@ Players' ability to create and role-player a character that is fun for them shou
   - **Dwarf**: +1 STR, Advantage on resilience-related skill checks
   - **Elf**: +1 INT, Advantage on perception-related skill checks
   - **Halfling**: +1 DEX, Advantage on stealth-related skill checks
-  (You can modify the races for non-fantasy settings if relevant - e.g. replacing with 'backgrounds'.)
+- You can modify the races for non-fantasy settings if relevant - e.g. inventing new races or replacing them with something more like 'backgrounds'.
 
 ### Classes
 - Class adds +1 to one score. Class also provides a dice that is used for hit dice and for weapon damage (see below on equipment).
@@ -95,12 +95,17 @@ Players' ability to create and role-player a character that is fun for them shou
 | --- | --- | --- | --- | --- | --- | --- |
 | **Missile** | Fires magical darts which automatically hit the target | 1 dart, d6 damage | 3 darts, d6 damage per dart | 4 darts, d8 damage per dart | 5 darts, d10 damage per dart | None |
 | **Blast** | Fire, cold, acid or poison blast | d6 damage in 5-foot square | d6 damage in 10-foot square | 2d6 damage in 10-foot square | 3d6 damage in 15-foot square | Attack |
-| **Levitate** | Raise an object or character | Up to 1 kg, slowly | Up to 10 kg, slowly | Up to 200 kg, slowly | Up to 200 kg can fly | STR |
+| **Levitate** | Raise (or slow the fall of) an object or character | Up to 1 kg, slowly | Up to 10 kg, slowly | Up to 200 kg, slowly | Up to 200 kg can fly | STR |
 | **Slow** | Slow an enemy | - | Enemy has half movement | Enemy paralysed | Enemy falls asleep | INT |
 | **Deception** | Deceive another | - | +5 to persuasion attempt or disguise self | Target is charmed | Character is invisible | INT |
 | **Heal** | Restore hit points | - | Restore 1d8 | Restore 1d8 + 5 | Restore 2d8 + 5 | N/A |
 | **Shield** | Protect a character | - | +5 AC | +5 AC and +5 to saves | +5 AC and immune to type damage (e.g. cold) | N/A |
 | **Agility** | Assist a character's movement | Character can take an extra action next turn | Double character's jump distance | Double character's movement | Character can spider climb | N/A |
+
+Wizards can also pay 1 pt to cast any of the following:
+- Illuminate a 20-foot square
+- Make a 20-foot square slippery - DEX check to stand up, otherwise fall and cannot take actions
+- Make a 20-foot square foggy - partial cover inside
 
 ## Monsters & Encounters
 - A good reference for key monsters is at [Simple DND Monsters](https://simplednd.wordpress.com/monsters/).
