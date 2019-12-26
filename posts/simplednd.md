@@ -83,7 +83,7 @@ Players' ability to create and role-player a character that is fun for them shou
 
 ## Spells
 - Spells are controlled by a combination of casting points and scrolls.
-- Each character has casting points which are depleted by casting and replenished by a long rest. Wizards begin with 3xINT points; Adventurers have 2xINT; others have 1xINT.
+- Each character has casting points which are depleted by casting and replenished by a long rest. Wizards begin with 3 x INT points; Adventurers have 2 x INT; others have 1 x INT.
 - To cast a spell, a character must also have the relevant spell scroll. Wizards start with 3 scrolls; Adventurers with 1. Other scrolls may be found while adventuring.
 - Each spell may be cast at different power levels which use different amounts of casting points.
 - DC for saves against spells is 10 + INT.
@@ -115,4 +115,3 @@ Wizards can also pay 1 pt to cast any of the following:
 - Trap DC should generally be 10-15, damage can be varied at the discretion of the DM.
 
 _Thanks to Duncan Matheson for input on these rules._
-
