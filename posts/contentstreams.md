@@ -1,5 +1,5 @@
 ## Unsolicited Feedback
-# Twitter and Reddit content streams
+# Content streams: Twitter, Reddit & Facebook
 
 - reddit best of subreddit
 - twitter user centric vs reddit topic centric
