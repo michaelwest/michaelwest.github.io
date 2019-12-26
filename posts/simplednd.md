@@ -109,5 +109,5 @@ Players' ability to create and role-player a character that is fun for them shou
 - Encounters can be modified (including on the fly) to make them easier or harder: reinforcements, withdrawal, terrain, obscuring fog, etc. 
 - Trap DC should generally be 10-15, damage can be varied at the discretion of the DM.
 
-
+_Thanks to Duncan Matheson for input on these rules._
 
