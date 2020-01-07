@@ -1,3 +1,5 @@
+<header><title>Feedback: Quip</title></header>
+
 ## Unsolicited Feedback
 # Quip
 

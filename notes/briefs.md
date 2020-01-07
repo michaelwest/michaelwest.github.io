@@ -197,8 +197,13 @@ _Creed_
 - Chinese progress in AI is overestimated by most western analysts. Few firms are doing fundamental work and there is a lot of duplication and siloing even within firms.
 - Chinese government sees AI as a key tool for social cohesion, and several Chinese firms are complicit in enabling this goal.
 
-## Bob Iger - Masterclass.com
+## Bob Iger - Masterclass
 - High risk tolerance (_Aside: How many successful leaders are high risk tolerance + survivorship bias?_). Example of funding a police musical show which tanked, but same producer later brought him NYPD Blue, which succeeded. Example of pushing to make Black Panther and Captain Marvel with full budgets rather than treating them as side-projects.
 - On-the-ground research about audience/consumers, rather than being beholden to aggregate data.
 - Focused time for thinking each day. Cutting down strategy to just a few essentials, e.g. turning around Disney Animation because it was essential to the company. Committing to a course of action (e.g. not backing down from major acquisitions of Pixar or Fox despite potential difficulties).
 - Reiterate basic values: make decisions quickly but do homework to prepare on them, act with integrity and honesty (including admitting and owning failure), be curious, project optimism to the team.
+
+## Frank Gehry - Masterclass
+- Maintaining your own voice - signature as example of unconsciously applying your own style.
+- Sources of inspiration: carved marble folds in sculptures of Michelangelo (smooth, gradual) and Bernini (sharper) - cf to staggered bay windows on 8 Spruce Street skyscraper. Fish: giving a static sculpture or building a sense of movement.
+- Building 1:10 scale models in order to test acoustics of concert hall. Doing the work to actually test something, rather than just speculate.
