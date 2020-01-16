@@ -207,3 +207,16 @@ _Creed_
 - Maintaining your own voice - signature as example of unconsciously applying your own style.
 - Sources of inspiration: carved marble folds in sculptures of Michelangelo (smooth, gradual) and Bernini (sharper) - cf to staggered bay windows on 8 Spruce Street skyscraper. Fish: giving a static sculpture or building a sense of movement.
 - Building 1:10 scale models in order to test acoustics of concert hall. Doing the work to actually test something, rather than just speculate.
+
+## Prisoners of Geography
+_Tim Marshall_
+A bit inconsistent in application of geo determinism, but aspects on great power motivation were good.
+- Russia: Ukrainian plain, warm-water port at Sevastopol, NATO/EU encirclement, energy security
+- China: Tibet as shield from India, hemmed in at sea
+- US: Mississippi River basin for easy transport + Louisiana Purchase preventing French chokepoint at New Orleans, Spanish-American War acquisition of Guam and Philippines
+- Europe: weak chapter, but essentially better farmland in the north
+  - Why did the Rockies not restrain/divide in the manner of Pyrenees? Is it better for development to be fragmented or united?
+- Africa: most rivers have waterfalls and aren't navigable, few natural harbours, made-up colonial borders
+- Middle East: Israel is only 50 miles wide, West Bank highlands strategically valuable, Sunni Iraq has no resources: would have liked more on these (is it feasible to rearrange Sykes-Picot in a better way?)
+- Korea: Proximity of Seoul to the border
+- Arctic: Melting ice will introduce new competition, Russia is quite far ahead eg 32 icebreakers vs US only one
