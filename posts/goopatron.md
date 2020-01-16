@@ -2,7 +2,7 @@
 
 # Goop-a-tron
 
-"The meaning of life is to find a life worth living and to have that life, in your heart. That is what makes the art of hell so profound."
+**"The meaning of life is to find a life worth living and to have that life, in your heart. That is what makes the art of hell so profound."**
 
 Inspired by "Bloosh", _Parks & Recreation_'s parody of Gwyneth Paltrow's controversial lifestyle site "Goop", I wanted to see if an AI could generate similar wellness babble. I scraped about 100 articles from Goop and used [Max Woolf's Colab notebook](https://minimaxir.com/2019/09/howto-gpt2/) to use those articles to briefly train the [OpenAI GPT-2 language model](https://openai.com/blog/better-language-models/). The trained model then generated all the text below. I've picked the best bits and in some cases lightly edited for punctuation; text in italics was part of a prompt given to the system.
 
