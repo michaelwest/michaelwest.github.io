@@ -1,4 +1,4 @@
-# Brief notes on books, articles and podcasts
+# Notes and Quotes from books, articles and podcasts
 
 ## Cognitive Surplus
 _Clay Shirky_
@@ -133,6 +133,33 @@ Don't think of capability in the abstract or as 'technically possible' for power
 
 > "It seems to me that when people talk about what you "can't" do on a device, there are actually two different meanings of "can't" in computing. There is "can't" as meaning the feature doesn't exist, and there is "can't" as meaning you don't know how to do it. If you don't know how to do it, the feature might as well not be there. So, there is what an expert can't do on a smartphone or tablet that they could do on a PC. But then there are all of the things that a normal person (the other 90% or 95%) can't do on a PC but can do on a smartphone, because the step change in user interface abstraction and simplicity means that they know how to do it on a phone and didn't know how to do it on a PC. That is, the step change in user interface models that comes with the shift from Windows and Mac to iOS and Android is really a shift in the accessibility of capability. A small proportion of people might temporarily go from can to can't, but vastly more go from can't to can."
 
+## The Origin of Species
+_Charles Darwin_
+
+> "It is interesting to contemplate a tangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent upon each other in so complex a manner, have all been produced by laws acting around us. These laws, taken in the largest sense, being Growth with reproduction; Inheritance which is almost implied by reproduction; Variability from the indirect and direct action of the conditions of life, and from use and disuse; a Ratio of Increase so high as to lead to a Struggle for Life, and as a consequence to Natural Selection, entailing Divergence of Character and the Extinction of less improved forms. Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows. There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone circling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being evolved."	
+
+## Julius Caesar
+_William Shakespeare_
+
+> Brutus:
+> There is a tide in the affairs of men.
+> Which, taken at the flood, leads on to fortune;
+> Omitted, all the voyage of their life
+> Is bound in shallows and in miseries.
+> On such a full sea are we now afloat,
+> And we must take the current when it serves,
+> Or lose our ventures.
+
+## Meditations
+_Marcus Aurelius_
+
+> "When you wake up in the morning, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous and surly. They are like this because they can't tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own - not of the same blood and birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can I feel angry at my relative, or hate him. We were born to work together like feet, hands and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are unnatural."	
+
+## Quantum mechanics of software
+_Shyam Sankar_
+
+> "One of the most fundamental human desires to believe that something is either A or B, and many complex endeavors are compromised from the beginning by treating the A/B split as a first principle. Binary logic may explain well-understood processes, but eventually the old rules cease to apply, as with the failure of classical physics to explain phenomena at atomic and subatomic scales. To understand quantum theory, you have to accept the wave-particle duality, and even then, it turns out that no one really knows why light exhibits both wave and particle properties. We can observe, even predict, but not quite explain.Startups are subject to similarly misunderstood dualities. Simple minds want to know if winning depends more on doing A or B: Should we move fast, or ship quality? Build footprint or monetize? Optimize on breadth or depth? The winner, however, realizes that you have to figure out a way to do both. How this is accomplished is highly contextualized in practice, but it begins with the realization that you cannot have one without the other and hope to succeed. If it were as simple as doing only one thing well, the success rate of venture capital would be much greater than 10%. And when you do succeed, as in quantum mechanics, recognizing that things work a certain way is more important than knowing why (for the purposes at hand, at least)....When striving to achieve both A and B, you often need to consciously set up opposing forces to achieve your goals. For example, you need hackers who are relentlessly focused on solving the customer's problems, even if they're comparatively poor at productization and long-term code stability, and you need artists who are relentlessly focused on productization and pristine architecture even if their sense of customer urgency leaves a lot to be desired. How you make them work together productively is an art - there is always some violence, but it starts by recognizing you need both, and accepting that their interactions only need to be productive, not harmonious. The results of this type of particle collision are very difficult to know ex ante, so the safest bet is to find the best exemplars you can of each type - people you would want to work with individually."	
+
 ## Reith Lecture - Hilary Mantel - History
 - History is not a rehearsal, it was its own main event — does not exist just to provide parallels, and doesn't repeat exactly enough for parallels to be useful.
 - We often want to interpret history in ways that are convenient - e.g. to empower women who weren't truly empowered at the time; to have a more gruesome past (the Iron Maiden is a fiction); or to have a 'simpler' one. In reality historical societies were of course complex.
@@ -191,8 +218,7 @@ _Creed_
 - Not recognising faces is quite well known as a disorder. But particular man  could recognise faces but thought they were imposters (eg mother) — basis was that the connection between face recognition area (fusiform gyrus) and emotional area (limbic system) — so he saw the face of his mother but didn’t emotionally connect and hence assumed imposter. Talking to her on phone, he was normal.
 - Man with amputated arm had phantom limb, and sensation mapped to face — ie if you touched parts of his cheek, would feel sensation mapped in phantom thumb or index finger.
 
-## ChinAI newsletter 
-[Year 1 summary](https://chinai.substack.com/p/chinai-48-year-1-of-chinai)
+## ChinAI newsletter - Jeff Ding
 - Language asymmetry -  most Chinese AI researchers are able to access English findings, but few western researchers access Chinese findings
 - Chinese progress in AI is overestimated by most western analysts. Few firms are doing fundamental work and there is a lot of duplication and siloing even within firms.
 - Chinese government sees AI as a key tool for social cohesion, and several Chinese firms are complicit in enabling this goal.
