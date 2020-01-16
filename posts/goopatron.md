@@ -116,6 +116,3 @@ Because I scraped articles from the wellness section, the text is biased towards
 > When you are in a state of balance, acknowledge that others are judging you. Be compassionate and consider other people. If you’re visual, you can picture these steps: A) The front doorbell rings. B) The doorbell rings. C) The doorbell rings. D) The doorbell rings. You can move your head to confirm this, or you can nod your head up and down as needed.
 
 > The meaning of life is to find a life worth living and to have that life, in your heart. That is what makes the art of hell so profound.
-
-
-
