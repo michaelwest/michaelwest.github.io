@@ -29,8 +29,8 @@ Because I scraped articles from the wellness section, the text is biased towards
 > _Gwyneth always says_ to be extra careful when you’re with us—because we’re looking for your sparkly change of heart. And when she does, we’re sure to find something so spectacular—its day will be terrifying.
 
 > _Gwyneth always says_ she needs to infiltrate the subconscious mind of a few thousand people a day. So she has a few tools in her arsenal:
-> 1 -  A journal. I always keep a journal. An easy-to-read journal is just a collection of small notes that you take with you wherever you go. Here’s what the notes say to him or her: "This morning, we’re surprised to learn that you have a heart condition called DES, a condition that causes massive chest pain and can kill you within hours. You’re unlikely to get better from this surgery, so you might as well take a rest. Ideally, you would like to look slightly less tired now, but that’s not healthy."
-> 2 - Book a guided meditation.
+> 1.  A journal. I always keep a journal. An easy-to-read journal is just a collection of small notes that you take with you wherever you go. Here’s what the notes say to him or her: "This morning, we’re surprised to learn that you have a heart condition called DES, a condition that causes massive chest pain and can kill you within hours. You’re unlikely to get better from this surgery, so you might as well take a rest. Ideally, you would like to look slightly less tired now, but that’s not healthy."
+> 2. Book a guided meditation.
 
 ## People of Goop
 
@@ -80,9 +80,9 @@ Because I scraped articles from the wellness section, the text is biased towards
 
 > Our latest addition to our family of wellness staples is roasted coffee. Coffee is the healthy, low-carbon fuel that gets us all the way from sunburn to lungs.
 
-> My favourite healthy food is definitely the mushroom salad. It’s so good for you that it’s worth saying that every other week, we come across a wonderful mushroom-laden salad with a treat.
+> _My favourite healthy food is_ definitely the mushroom salad. It’s so good for you that it’s worth saying that every other week, we come across a wonderful mushroom-laden salad with a treat.
 
-> Let your mind and heart be your healer. When possible, make dinner out of roasted vegetables, salad greens, whole grains, and beans. A bowl of steamed spinach is all that matters—especially steamed—because it contains all the essential nutrients
+> Let your mind and heart be your healer. When possible, make dinner out of roasted vegetables, salad greens, whole grains, and beans. A bowl of steamed spinach is all that matters—especially steamed—because it contains all the essential nutrients.
 
 > But if your body has too much sunlight, it can dehydrate, and you could end up with a cold, which can send cells scrambling for ways to grow more and more fat. To help you shed as much as you can, you need sunlight and vitamin D, according to Jon Kabat-Zinn, M.D., a gastroenterologist at Rhode Island Medical Center.
 
@@ -97,9 +97,9 @@ Because I scraped articles from the wellness section, the text is biased towards
 > When we think of happy times, we think of bacon grease and cream. The goop guys at goop are out to make some really great bacon.
 
 > _The best way to spend a holiday is_ to go out and have a smoke, not to mention to eat. And that sounds like a problem, right? The good news, according to health journalist Tom Hamburger, is that there are solutions.
-> 1 - In a skillet over medium-high heat, brown the potatoes on each side until golden brown, about five minutes. Remove from the heat and let cool. Heat another medium heat, bringing down to a simmer, melt the bacon, garlic, and salt together in a food processor, scraping down the sides as necessary. Pulse in the remaining bacon, cook, scraping down the sides as necessary, three more minutes, until just combined. Add in the remaining bacon, cook, scraping down the sides as necessary, and finally cook, scraping down the sides as necessary, until golden brown, almost to an even point. Flip the potato over and cook, scraping down the sides as needed, until golden brown, about five minutes. Remove from the heat and let cool.
-> 2 - Spoon the remaining bacon on the outside of the tortilla side up top. Coat each tortilla side with the remaining bacon. Drizzle with the remaining remaining remaining olive oil.
-> 3 - Serve immediately or keep warm in the fridge.
+> 1. In a skillet over medium-high heat, brown the potatoes on each side until golden brown, about five minutes. Remove from the heat and let cool. Heat another medium heat, bringing down to a simmer, melt the bacon, garlic, and salt together in a food processor, scraping down the sides as necessary. Pulse in the remaining bacon, cook, scraping down the sides as necessary, three more minutes, until just combined. Add in the remaining bacon, cook, scraping down the sides as necessary, and finally cook, scraping down the sides as necessary, until golden brown, almost to an even point. Flip the potato over and cook, scraping down the sides as needed, until golden brown, about five minutes. Remove from the heat and let cool.
+> 2. Spoon the remaining bacon on the outside of the tortilla side up top. Coat each tortilla side with the remaining bacon. Drizzle with the remaining remaining remaining olive oil.
+> 3. Serve immediately or keep warm in the fridge.
 
 > My boyfriend likes to fry his own salad—he cooks it at home—and I like to make mine out of bacon. It’s so good for his belly that he once had to open it and let it rest on his coffee table before picking it up for himself. 
 
