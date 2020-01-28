@@ -1,3 +1,4 @@
+<head><title>MW: Notes</title></head>
 # Notes and Quotes from books, articles and podcasts
 
 ## Cognitive Surplus
@@ -247,7 +248,7 @@ A bit inconsistent in application of geo determinism, but aspects on great power
 - Korea: Proximity of Seoul to the border
 - Arctic: Melting ice will introduce new competition, Russia is quite far ahead eg 32 icebreakers vs US only one
 
-## Democratic deterrence: How to dissuade hybrid interference
+## Democratic deterrence
 _Mikael Wigell_
 [Source](https://www.fiia.fi/wp-content/uploads/2019/09/wp110_democratic-deterrence.pdf)
 - Hybrid interference = non-military practices for mostly-covert manipulation of other states' strategic interests. Different to hybrid warfare, which is basically indirect military conflict (e.g. arming insurgencies). HI usually functions as a wedge strategy to undermine target cohesion, without actively raising perception of an external threat.
