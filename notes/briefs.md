@@ -263,9 +263,9 @@ _Mikael Wigell_
   - **Punishment/compellence**: credible countermeasures if interference continues. Examples: traditional measures such as economic sanctions (e.g. Russia has been severely hurt by current sanctions, and those could be taken further), strengthening support for human rights and democracy promotion within autocratic states to shift the contest to their home turf, encouraging civil society groups in similar ways, supporting anti-authoritarian political dissent and expression within diaspora communities, more active measures such as cyber retaliation. Most of these measures involve intensifying a commitment to democratic open society and more heavily engaging and promoting civil society groups, rather than trying to tightly close down and regulate speech and media.
 
 ## Goliath
-"Why the West isn't winning, and what we must do about it"
 _Sean McFate_
-A lot of circumstantial assertion and straw-manning rather than well-analysed evidence - overall didn't love it. But pulling out some potentially useful ideas:
+
+"Why the West isn't winning, and what we must do about it." Felt like a lot of circumstantial assertion and straw-manning rather than really well-analysed evidence - overall, I didn't love it. But some potentially useful ideas to pull out of it:
 - New technologies take longer to change practice than often claimed when first announced/analysed, e.g. Stuxnet didn't actually cripple the Iranian nuclear program.
 - Spending on high-tech weapons is generally too high and delivers minimal value. F-35 as example. Maven as another example but poorly discussed.
 - High-tech militaries have repeatedly lost (in the sense of not achieving their political war aims) to low-tech ones: France in Indochina, Algeria; UK in Aden, Palestine, Cyprus; USSR in Afghanistan; Israel in Lebanon; US in Vietnam, Iraq, Afghanistan.
