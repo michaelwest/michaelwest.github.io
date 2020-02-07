@@ -261,3 +261,19 @@ _Mikael Wigell_
 - Deterrence theory considers both denial/resilience and punishment/compellence. 
   - **Denial/resilience**: boosting Western societies' ability to resist interference. Examples: encouraging citizen activism via NGOs/media organisations (e.g. Bellingcat investigation of Skripal poisoning), media fake news literacy programs, regulated transparency on social media platforms and political advertising, connecting vulnerable parties (e.g. media/NGOs/political groups) to intelligence and law enforcement, encouraging transparency in foreign engagement (e.g. Aus FITS register), encouraging transparency in money flows and comprehensive multi-hop foreign investment screening, preventing foreign acquisitions in strategic sectors, preventing foreign funding of domestic political groups, etc.
   - **Punishment/compellence**: credible countermeasures if interference continues. Examples: traditional measures such as economic sanctions (e.g. Russia has been severely hurt by current sanctions, and those could be taken further), strengthening support for human rights and democracy promotion within autocratic states to shift the contest to their home turf, encouraging civil society groups in similar ways, supporting anti-authoritarian political dissent and expression within diaspora communities, more active measures such as cyber retaliation. Most of these measures involve intensifying a commitment to democratic open society and more heavily engaging and promoting civil society groups, rather than trying to tightly close down and regulate speech and media.
+
+## Goliath
+"Why the West isn't winning, and what we must do about it"
+_Sean McFate_
+A lot of circumstantial assertion and straw-manning rather than well-analysed evidence - overall didn't love it. But pulling out some potentially useful ideas:
+- New technologies take longer to change practice than often claimed when first announced/analysed, e.g. Stuxnet didn't actually cripple the Iranian nuclear program.
+- Spending on high-tech weapons is generally too high and delivers minimal value. F-35 as example. Maven as another example but poorly discussed.
+- High-tech militaries have repeatedly lost (in the sense of not achieving their political war aims) to low-tech ones: France in Indochina, Algeria; UK in Aden, Palestine, Cyprus; USSR in Afghanistan; Israel in Lebanon; US in Vietnam, Iraq, Afghanistan.
+- "Conventional" war is tied to the primacy of states, and state primacy is a historic anomaly. Before Westphalia, there was a chaotic period where mercenaries, sub-national groups, and non-state actors like the Church were engaged in struggle. In modern day, groups like private military contractors, drug cartels, insurgencies, etc are driving that trend. Strategy for engaging these actors as part of a war is important, but under-considered.
+- Active duty vs reserve duty units should be inverted. Common active duty units like fighters, tanks, etc are rarely used, especially for their primary purpose. Support units like intelligence, logistics, etc are more frequently needed, including for non-combat operations. Inverting which units are constantly staffed vs only reserve staffed would improve outcomes and make a cultural shift.
+- Should have more "white SOF", i.e. SOF units that liaise with and train foreign militaries.
+- Should have more support for civliian power projection such as information operations, "pinpoint sanctins", public diplomacy, etc.
+- Should have more CIA-run, private-delivered (by ad agencies/Hollywood) information operations.
+- Should have more expansive strategic military education at earlier stages, rather than focusing on tactics that are more applicable to conventional war.
+- Strategies to investigate: China 'Three Warfares', Russia 'New Generation Warfare', Israel 'Campaign Between the Wars'
+
