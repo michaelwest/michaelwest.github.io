@@ -265,9 +265,9 @@ _Mikael Wigell_
 ## Goliath
 _Sean McFate_
 
-"Why the West isn't winning, and what we must do about it." Felt like a lot of circumstantial assertion and straw-manning rather than really well-analysed evidence - overall, I didn't love it. But some potentially useful ideas to pull out of it:
+"Why the West isn't winning, and what we must do about it." Quite a lot of circumstantial assertion and straw-manning rather than really well-analysed evidence - overall, I didn't love it. Felt like there might be a more serious book in here squelched by a desire to make it punchy. But some potentially useful ideas to pull out of it:
+- Spending on high-tech weapons is generally too high and delivers minimal value. F-35, supercarriers as examples. (Fully agree here.) Maven as another example but poorly discussed.
 - New technologies take longer to change practice than often claimed when first announced/analysed, e.g. Stuxnet didn't actually cripple the Iranian nuclear program.
-- Spending on high-tech weapons is generally too high and delivers minimal value. F-35 as example. Maven as another example but poorly discussed.
 - High-tech militaries have repeatedly lost (in the sense of not achieving their political war aims) to low-tech ones: France in Indochina, Algeria; UK in Aden, Palestine, Cyprus; USSR in Afghanistan; Israel in Lebanon; US in Vietnam, Iraq, Afghanistan.
 - "Conventional" war is tied to the primacy of states, and state primacy is a historic anomaly. Before Westphalia, there was a chaotic period where mercenaries, sub-national groups, and non-state actors like the Church were engaged in struggle. In modern day, groups like private military contractors, drug cartels, insurgencies, etc are driving that trend. Strategy for engaging these actors as part of a war is important, but under-considered.
 - Active duty vs reserve duty units should be inverted. Common active duty units like fighters, tanks, etc are rarely used, especially for their primary purpose. Support units like intelligence, logistics, etc are more frequently needed, including for non-combat operations. Inverting which units are constantly staffed vs only reserve staffed would improve outcomes and make a cultural shift.
