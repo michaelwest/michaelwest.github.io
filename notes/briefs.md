@@ -272,7 +272,7 @@ _Sean McFate_
 - "Conventional" war is tied to the primacy of states, and state primacy is a historic anomaly. Before Westphalia, there was a chaotic period where mercenaries, sub-national groups, and non-state actors like the Church were engaged in struggle. In modern day, groups like private military contractors, drug cartels, insurgencies, etc are driving that trend. Strategy for engaging these actors as part of a war is important, but under-considered.
 - Active duty vs reserve duty units should be inverted. Common active duty units like fighters, tanks, etc are rarely used, especially for their primary purpose. Support units like intelligence, logistics, etc are more frequently needed, including for non-combat operations. Inverting which units are constantly staffed vs only reserve staffed would improve outcomes and make a cultural shift.
 - Should have more "white SOF", i.e. SOF units that liaise with and train foreign militaries.
-- Should have more support for civliian power projection such as information operations, "pinpoint sanctins", public diplomacy, etc.
+- Should have more support for civilian power projection such as information operations, "pinpoint sanctions", public diplomacy, etc.
 - Should have more CIA-run, private-delivered (by ad agencies/Hollywood) information operations.
 - Should have more expansive strategic military education at earlier stages, rather than focusing on tactics that are more applicable to conventional war.
 - Strategies to investigate: China 'Three Warfares', Russia 'New Generation Warfare', Israel 'Campaign Between the Wars'
