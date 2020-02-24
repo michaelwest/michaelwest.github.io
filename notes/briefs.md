@@ -181,13 +181,13 @@ _Charles Darwin_
 ## 📘 Julius Caesar
 _William Shakespeare_
 
-> Brutus:
-> There is a tide in the affairs of men.
-> Which, taken at the flood, leads on to fortune;
-> Omitted, all the voyage of their life
-> Is bound in shallows and in miseries.
-> On such a full sea are we now afloat,
-> And we must take the current when it serves,
+> Brutus:\
+> There is a tide in the affairs of men.\
+> Which, taken at the flood, leads on to fortune;\
+> Omitted, all the voyage of their life\
+> Is bound in shallows and in miseries.\
+> On such a full sea are we now afloat,\
+> And we must take the current when it serves,\
 > Or lose our ventures.
 
 ## 📘 Meditations
