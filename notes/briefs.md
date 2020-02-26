@@ -333,3 +333,30 @@ _Eric Klinenberg_
 - Investment in public institutions such as libraries has generally fallen - not a mystery as to why they're less important now
 - Investment in fixing up abandoned/unsafe public spaces (cf. broken windows theory) is effective - 5X-100X return on investment
 - Programs like community gardens can improve food access, improve public space, and provide community jobs for e.g. rehabiliting ex-inmates 
+
+## 📘 Made by Humans
+_Ellen Broad_
+
+- Every AI system is 'made by humans', and conclusions/outputs need to be interrogated accordingly
+- Intelligibility of system itself (to other experts), vs openness / documentation to non-experts, description of dataset used to train it
+- Bias in datasets, eg: 
+  - underrepresentation of certain demographics; 
+  - unexpected effects eg asthma as predictor of pneumonia outcome (asthma patients get treated as emergencies so have better outcomes, but asthma makes pneumonia worse not better); 
+  - poor quality of datasets, eg radiology images where treatment is already in place and image contains stent that AI might recognise instead of the cancer; 
+  - role of high quality public datasets and data trust organisations.
+
+## 🎙️ YC - Pachama
+_Diego Saez Gil_
+
+- Pachama is an ex-YC startup that uses remote sensing and ML to verify carbon credit projects sold through its marketplace.
+- Historically accreditation of carbon credit projects (esp. forest-related) has been hard - heavily manual audits. As a result, only 50 forest projects in USA, less in South America.
+- Numbers:
+  - 1 ha of full forest is ~200 t of carbon
+  - Estimate services companye emits 6 t carbon per employee (mainly electricity, travel)
+  - 1 ton of carbon credits costs ~$5-20
+  - 1B ha of land available for forests without competing with agriculture - so 1T trees, ~200 Gt of C (~700 Gt CO2)
+- Forest conservation - avoid emission from decomposition/burning, plus further capture as trees keep growing for lifetime. - Even though trees release some CO2 when they die, still net capture.
+- All airlines will have to offset by law in 2021 (160 Mt)
+- Should focus more on wood as a construction material
+- Combination of satellite imagery and LIDAR data to detect forests.
+- Scope for more climate-focused software startups by applying ML to efficient resource management (agriculture, transport, etc).
