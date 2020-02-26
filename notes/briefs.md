@@ -356,7 +356,7 @@ _Diego Saez Gil_
   - 1 ton of carbon credits costs ~$5-20
   - 1B ha of land available for forests without competing with agriculture - so 1T trees, ~200 Gt of C (~700 Gt CO2)
 - Forest conservation - avoid emission from decomposition/burning, plus further capture as trees keep growing for lifetime. - Even though trees release some CO2 when they die, still net capture.
-- All airlines will have to offset by law in 2021 (160 Mt)
+- All airlines will have to offset in 2021 - CORSIA scheme. _Looking into this, it seems they only have to offset growth above 2020 levels, not total emissions, and it only covers international flights. Still useful as otherwise aviation emissions likely to grow sharply due to increasing traffic and no good carbon-free alternatives._
 - Should focus more on wood as a construction material
 - Combination of satellite imagery and LIDAR data to detect forests.
 - Scope for more climate-focused software startups by applying ML to efficient resource management (agriculture, transport, etc).
