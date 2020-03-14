@@ -39,6 +39,11 @@
 - [📘 Goliath / New Rules of War](#-goliath--new-rules-of-war)
 - [🎙️ Anatomy of Next - New World](#-anatomy-of-next---new-world-founders-fund-mars-landing-series)
 - [📘 Palaces for the People: Social Infrastructure](#-palaces-for-the-people-social-infrastructure)
+- [📘 Made by Humans](#-made-by-humans)
+- [🎙️ YC - Pachama](#-yc-pachama)
+- [🎙️ Will Wright - Masterclass](#-will-wright---masterclass)
+- [🎙️ Long Term Stock Exchange](#-long-term-stock-exchange)
+
 
 ## 📘 Cognitive Surplus
 _Clay Shirky_
@@ -360,3 +365,35 @@ _Diego Saez Gil_
 - Should focus more on wood as a construction material
 - Combination of satellite imagery and LIDAR data to detect forests.
 - Scope for more climate-focused software startups by applying ML to efficient resource management (agriculture, transport, etc).
+
+## 🎙️ Will Wright - Masterclass
+
+(Game Design, but applicable to other types of software)
+- Ideas from many sources eg economics, history 
+- Identify elements that can flow through different parts of the software eg editors in Spore across disparate game types
+- Make simple prototypes (as cheaply as possible, don’t have to be reusable) in order to make a decision - identify what the decision actually is and how you can tell the answer from a prototype
+  - Can people use the interface?
+  - What are the failure states?
+  - Is it motivating?
+  - Are people getting both the social and the individual components?
+  - Drawing alternative box designs to see what resonates (cf Amazon “writing the press release”)
+- Technology changes but human psychology doesn't
+  - Freedoms + limitations + goal states = motivated to do things and avoid others
+  - “No entrepreneur went broke overestimating the intelligence of the public” Barnum; substitute “narcissism of player”
+  - Getting player to build a mental model of agents, agency, goal states
+  - People learn by trying things and seeing what happens -> they understand patterns/schemas
+  - Model doesn’t have to be perfectly correct/representative of the actual world, just has to work within the software
+  - If active contribution to the game can become part of player’s identity (eg Sims content creators), that powers experience for them and for other more passive users - how to reward creation?
+  - Users will fail a lot of the time and that’s good, otherwise it’s not challenging. But failure must be understandable so the user can succeed next time, otherwise just frustrating.
+  - Capture metrics on people entering failure states or getting stuck at learning stages 
+  - Player's innate incentive to engage with the game process is much more important than gamified rewards.
+
+## Long Term Stock Exchange
+_Eric Ries_
+
+- Everybody hates quarterly reporting but assumes it’s required; Wall Street and companies blame each other
+- A small number of providers own all 15 exchanges; rules on NYSE vs NASDAQ are undifferentiated and people pick on cosmetic factors
+- Active fund price discovery is largely computers doing HFT, meanwhile people are moving money into passive investing — could stock prices become totally divorced from company fundamentals?
+- Regular public market investors excluded from growth companies because those companies can raise cash without being public and subject to quarterly pressures
+- He started new exchange, LTSE, which is about principles of long-term governance; eg corporate responsibility - is there a person who has a fiduciary duty to do a product recall if the product is harmful?
+- Companies should have actual charters/bylaws that reflect those multiple priorities/stakeholders eg responsibility to employees, communities.
