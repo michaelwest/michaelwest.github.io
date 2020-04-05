@@ -7,6 +7,38 @@
         <link rel="icon" type="image/png" sizes="32x32" href="https://mjwest.org/img/favicon-32x32.png">
 	    <link rel="icon" type="image/png" sizes="16x16" href="https://mjwest.org/img/favicon-16x16.png">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <style type="text/css">
+            @font-face { font-family: Futura; src: url('http://mjwest.org/FuturaStd-Bold.otf'); }
+            body {
+                font-family: Arial, sans-serif;
+                padding: 10px;
+                color: #333;
+            }
+	        p, li { font-size: 16px; }
+            h1, h2, h3, h4 {
+            font-family: Helvetica, Arial, sans-serif;
+            letter-spacing: -0.5px;
+                font-weight: bold;
+            color: #333;
+                }
+            h1 { font-size: 30px; }
+            h2 { font-size: 24px; }
+            h3 { font-size: 18px; }
+            h5, h6 { font-weight: bold; padding: 3px;}
+            h6 { color: #666;}
+            a {
+                color: #4891dc;
+                text-decoration: none;
+            }
+            table {
+                border-collapse: collapse;
+            }
+            td {
+                border-top: 1px solid #999;
+                border-bottom: 1px solid #999;
+                padding: 3px;
+            }
+        </style>
     </head>
     <body>
         <div class="container">
@@ -16,44 +48,86 @@
             </div>
             <div>
         <main id="content" role="main">
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2 text-muted">Context</h6>
-                    <h5 class="card-title">US military spending</h5>
-                    <p class="card-text">US spends so much money on military equipment, including 'exquisite assets', that are rarely used except in 'wars of choice'.</p>
+            <div class="container">
+                <div style="height: 30px;"></div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <div class="card-body bg-light">
+                                <h6 class="card-subtitle">Context</h6>
+                                <h5 class="card-title">High US military spending</h5>
+                                <p class="card-text">US spends a lot of money on military equipment, including 'exquisite assets', that are rarely used except in 'wars of choice'.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <div class="card-body bg-light">
+                                <h6 class="card-subtitle">Context</h6>
+                                <h5 class="card-title">Sub-military threats</h5>
+                                <p class="card-text">Other threats exist consistently without choice: economic espionage, natural disasters, pandemics.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <div class="card-body bg-light">
+                                <h6 class="card-subtitle">Context</h6>
+                                <h5 class="card-title">US spending creates jobs</h5>
+                                <p class="card-text">At least some of US military spending is for domestic job-creation.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 30px;"></div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <div class="card-body bg-light">
+                                <h6 class="card-subtitle">Prompt</h6>
+                                <h5 class="card-title">USNS Comfort in New York</h5>
+                                <p class="card-text">USN hospital ship at NYC to help with COVID - dual-use asset.</p>
+                                <p class="card-text"><img src="https://i.insider.com/5e86f00f29d6d90cfb144214?width=1100&format=jpeg&auto=webp" style="width: 100%;"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card">
+                            <div class="card-body bg-light">
+                                <h6 class="card-subtitle">Prompt</h6>
+                                <h5 class="card-title">US Marine Corps reorients</h5>
+                                <p class="card-text">USMC retooling to Western Pacific island warfare, with fewer unnecessary large assets: change is possible.</p>
+                                <a href="https://www.csis.org/analysis/marine-corps-radical-shift-toward-china" class="card-link">Reference: CSIS</a>               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height:30px;"></div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="card text-white">
+                            <div class="card-body bg-info">
+                                <h6 class="card-subtitle text-white">Idea</h6>
+                                <h5 class="card-title">Create a "resilience-industrial complex"</h5>
+                                <p class="card-text">Encourage transition from military-industrial complex making rarely-useful equipment into resilience-industrial complex making frequently-useful equipment</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height:30px;"></div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="card text-white">
+                            <div class="card-body bg-danger">
+                                <h6 class="card-subtitle text-white">Objection</h6>
+                                <h5 class="card-title">Existing spending in these areas</h5>
+                                <p class="card-text">We already spend a lot on health, domestic law enforcement -- is a step change possible here?</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2 text-muted">Context</h6>
-                    <h5 class="card-title">Sub-military threats</h5>
-                    <p class="card-text">Other threats exist consistently without choice: economic espionage, natural disasters, pandemics.</p>
-                </div>
-            </div>
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2 text-muted">Context</h6>
-                    <h5 class="card-title">Spending rationale</h5>
-                    <p class="card-text">At least some of US military spending is for domestic job-creation.</p>
-                </div>
-            </div>
-            <br/>
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2 text-muted">Prompt</h6>
-                    <h5 class="card-title">USS Comfort in New York</h5>
-                    <p class="card-text">USN hospital ship at NYC to help with COVID - dual-use asset.</p>
-                </div>
-            </div>
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2 text-muted">Prompt</h6>
-                    <h5 class="card-title">USMC reorients towards China</h5>
-                    <p class="card-text">USMC retooling to Western Pacific island warfare, with fewer unnecessary large assets: change is possible.</p>
-                    <a href="https://www.csis.org/analysis/marine-corps-radical-shift-toward-china" class="card-link">Reference: CSIS</a>               
-                </div>
-            </div>
-          <footer class="site-footer"></footer>
+            <footer class="site-footer"></footer>
         </main>
         </body>
         
