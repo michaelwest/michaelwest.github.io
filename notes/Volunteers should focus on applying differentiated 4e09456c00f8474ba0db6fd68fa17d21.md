@@ -1,0 +1,41 @@
+# Volunteers should focus on applying differentiated skills
+
+Created: May 20, 2020 9:20 PM
+Edited: Dec 11, 2020 10:41 AM
+Tags: Organisations
+
+*“How can I best make a social impact?”*
+
+This is the question that a growing number of Australians are asking themselves. The number of adult volunteers doubled from 1995 to 2010. The proportion of young people who volunteer also nearly doubled over this period, to 27%. But the time that each person commits to volunteer effort is dropping. The median annual hours volunteered per person was 74 in 1995, but by 2006 it was just 56. Most volunteer organisations anticipate not having enough volunteers available to meet their needs.
+
+So perhaps the question we really need to ask is: How can I best make a social impact, in a limited time?
+
+Luckily, this is a question we have spent thousands of years answering — for economic impacts, rather than social ones. One of our best answers to improving economic productivity is skill specialisation, backed up by extensive education. Working hard to apply this to social fields opens up new opportunities for “disruptive volunteering”.
+
+*Disruptive volunteering is the concept that volunteers will have the highest, most transformative impact on a social organisation if they are given individualised opportunities to use their specialised skills.*
+
+Maybe this seems obvious, and undoubtedly many organisations are already deeply engaged in this approach. It underpins the idea of pro bono work by law firms and software companies, for example, and Toyota ran a program of donating their expertise with kaizen operational efficiency techniques to food banks. But in the personal domain, it’s rarer. Consider these stories: 
+
+Anita is a software engineer. She wants to contribute to a local nonprofit, so she signs up for a charity fun run. She approaches people she knows for donations (although she is quite introverted and doesn’t enjoy doing this), and raises $500 for about ten hours of effort. A week later, the nonprofit needs a new website and pays a web company $3000 for ten hours of work to create it.
+
+Ibrahim is a final-year accounting student. He has some time to volunteer, so he signs up to help out at a homeless shelter and soup kitchen. He is put to work serving soup, but doesn’t really have much idea of how to meaningfully engage with the homeless people who come to the shelter. At the same time, the shelter’s founder (a qualified and skilled social worker) is in the back office, struggling to figure out the complexities of the organisation’s tax filings and deductible gift recipient status. The shelter can’t afford to hire an accounting firm.
+
+In both cases, it would have been useful for Anita and Ibrahim to apply their specialised skills to achieve greater social impact. As a side effect, because people tend to specialise in things they enjoy, everyone would probably have had a better experience under this approach, increasing the likelihood they will keep volunteering, and that they’d even sign up in the first place.
+
+There are two caveats. People don’t only volunteer to make maximum social impact by applying their key skills; indeed, they may want to do something completely different from their day job. And there is probably only so much specialised work available for volunteers can do — a local sports club only needs one accountant, but dozens of team coaches, for example. But it’s vital that we do take the opportunities where they arise, rather than grouping all volunteers into a pool that doesn’t apply their individual, specialised skills to maximum effect. Some volunteers can act as force multipliers for all the rest, by making organisations more efficient and effective, and supplying skills that are otherwise in short supply.
+
+One crucial element of the stories above is that Anita and Ibrahim were both volunteering for organisations that happened to have a need for their specific skills. In this case, it was a narrative coincidence. In the real world, it’s crucial to develop platforms and groups that can make these connections happen easily and reliably. Clay Shirky has written about the “cognitive surplus” of modern society, where people have spare creative energy and want to contribute this to useful ends. Communities that channel this energy, like Wikipedia and the open-source software movement among many others, have achieved enormous impact. Our existing platforms are not sufficient to reliably achieve this for non-profits more widely. For example, VolunteerMatch is a great organisation, but when I clicked on “computers and technology” volunteer roles in Australia, there wasn’t a single one listed. It also lists organisations and roles by area of interest (human rights, animal welfare, and so on), rather than highlighting the ability to match a particular skill to a need, across domains. Code for America is a wonderful example of how effective a well-known skills hub can be; we need more platforms like this in other domains.
+
+## Case study: 180 Degrees
+
+I previously volunteered for 180 Degrees Consulting, the world’s largest university-based consultancy, a prime example of how we can start to create these platforms. 180 uses teams of high-performing university student volunteers to provide very affordable consulting services to non-profits and other groups making a social impact. The range of projects is broad — there are hundreds each year, in 20+ countries, and the volunteers are matched into projects that align with their education, skills and interests. Marketing majors might work on a social media strategy to improve fundraising, while law students might tackle a law reform question, and business students delve into improving operational efficiency or human resource management. Not everyone who applies is selected for a project, in recognition of the fact that a smaller number of disruptive volunteers will generate more social impact than allowing everyone to volunteer and having to dilute the type of work that volunteers can be trusted to perform.
+
+180 creates a structure for students to gain practical work experience, while feeling positive about making a social impact, and nonprofits get skilled advice they would not otherwise be able to afford. Indeed, many of 180’s volunteer consultants will graduate soon after into prestigious consulting roles where a few hours of their time are charged out for the same cost as a months-long, team-based 180 project. In this way, 180’s volunteer consultants are also “disruptive” in the sense used by Clayton Christensen. 180 teams lack the full-spectrum offerings of large professional firms, but deliver high-enough quality at dramatically lower cost, making them accessible to organisations that were previously locked out by price.
+
+180 also practises what it preaches, with internal roles filled by people with relevant skills. As an engineer, I’m the CTO, and have been able to contribute much more through software and IT than I would have in other areas. A final key point about 180, and other organisations like it, is that creating meaningful ways for young people to apply their time improves their overall ability to contribute to good causes, as many lack the money to make significant financial donations.
+
+## Summary
+
+Many people want to volunteer, but don’t have (or don’t feel they have) much time to do so. We need to help them make the most social impact in that limited time, by connecting them to opportunities where they can use their specialised skills. This makes them a “disruptive volunteer”, enabling them to have an impact on the organisation that goes far beyond the linear addition of another person holding a tin for donations.
+
+Just as human capital is crucial to the best-run companies, every organisation should be asking of its volunteers: Are we putting these people to best use? How are we leveraging their most specialised skills? How are we enabling them to best make a social impact, in a limited time? With so many crucial challenges being tackled by volunteer work, we can’t afford not to.
