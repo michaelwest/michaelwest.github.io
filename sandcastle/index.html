@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sandcastle Tides</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="title">Sandcastle Tides</div>
+    <div class="controls" role="group" aria-label="Build controls">
+      <button id="mode-tower" data-mode="tower">Tower (1)</button>
+      <button id="mode-wall" data-mode="wall">Wall (2)</button>
+      <button id="mode-trench" data-mode="trench">Trench (3)</button>
+      <button id="mode-pool" data-mode="pool">Pool (P)</button>
+      <button id="reset">Reset (R)</button>
+    </div>
+    <div class="status">
+      <span id="mode-label">Mode: Tower</span>
+      <span id="wave-timer">Next wave in: --</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <canvas id="game" aria-label="Sandcastle play area"></canvas>
+    <div id="cell-info" aria-live="polite"></div>
+    <section class="help">
+      <h2>How to play</h2>
+      <p>Click and drag on the sand to place towers and walls or dig trenches. Waves arrive from the left; guide the water into your trenches and away from your fortifications. Press the reset button or hit R to start fresh.</p>
+      <ul>
+        <li>1: Tower &nbsp; 2: Wall &nbsp; 3: Trench &nbsp; P: Pool (shallow radius 3)</li>
+        <li>Hold and drag to paint the selected tool.</li>
+        <li>Watch the countdown for the next wave.</li>
+      </ul>
+    </section>
+  </main>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>
